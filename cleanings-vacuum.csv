@@ -1,0 +1,698 @@
+category,STATION,Stationname,Date,DIVISION,LINE,LINENAME,DYear,DMonth,CMonth,Week.,CWeek,Track,Tracks Done
+Station Cleaning,15 STREET (PROSPECT PARK) (6AVE),15 Street,2015-01-02,IND,B,6Ave,2015,01,Jan,1,Fri,B1,1
+Station Cleaning,7 AVENUE (BKLYN) (6AVE),7 Avenue,2015-01-02,IND,B,6Ave,2015,01,Jan,1,Fri,"B2,3,4",3
+Station Cleaning,BERGEN STREET (6AVE),Bergen Street,2015-01-02,IND,B,6Ave,2015,01,Jan,1,Fri,"B1,2",2
+Station Cleaning,CHURCH AVENUE (6AVE),Church Avenue,2015-01-02,IND,B,6Ave,2015,01,Jan,1,Fri,"B2,3,4",3
+Station Cleaning,FORT HAMILTON PARKWAY (6AVE),Fort Hamilton Parkway,2015-01-02,IND,B,6Ave,2015,01,Jan,1,Fri,B2,1
+Station Cleaning,JAY STREET (FUL),Jay Street,2015-01-02,IND,B,Ful,2015,01,Jan,1,Fri,"B1,2",2
+Station Cleaning,14 STREET/UNION SQ  (BWY),14 Street/Union Sq,2015-01-03,BMT,A,Bwy,2015,01,Jan,1,Sat,A3,1
+Station Cleaning,23 STREET (BWY),23 Street,2015-01-03,BMT,A,Bwy,2015,01,Jan,1,Sat,A2,1
+Station Cleaning,34 STREET/HERALD SQ (BWY),34 Street/Herald Sq,2015-01-03,BMT,A,Bwy,2015,01,Jan,1,Sat,A3,1
+Station Cleaning,42 STREET/TIMES SQUARE (BWY),42 Street/Times Square,2015-01-03,BMT,A,Bwy,2015,01,Jan,1,Sat,"A1,4",2
+Station Cleaning,49 STREET (BWY),49 Street,2015-01-03,BMT,A,Bwy,2015,01,Jan,1,Sat,A1,1
+Station Cleaning,57 STREET (BWY),57 St / 6th Ave,2015-01-03,BMT,A,Bwy,2015,01,Jan,1,Sat,"A3,4",2
+Station Cleaning,CANAL STREET (H TRACKS) (BWY) L.L.,Canal St at Brdwy (Lower),2015-01-03,BMT,H,Bwy,2015,01,Jan,1,Sat,H2,1
+Station Cleaning,PRINCE STREET (BWY),Prince Street,2015-01-03,BMT,A,Bwy,2015,01,Jan,1,Sat,A2,1
+Station Cleaning,125 STREET (8AVE),125 Street,2015-01-04,IND,A,8Ave,2015,01,Jan,2,Sun,"A3,4",2
+Station Cleaning,14 STREET (8AVE),14 Street,2015-01-04,IND,A,8Ave,2015,01,Jan,2,Sun,"A2,3",2
+Station Cleaning,23 STREET (8AVE),23 Street,2015-01-04,IND,A,8Ave,2015,01,Jan,2,Sun,A2,1
+Station Cleaning,34 STREET (PENN STATION) (8AVE),34 Street,2015-01-04,IND,A,8Ave,2015,01,Jan,2,Sun,"A2,3",2
+Station Cleaning,42 STREET (8AVE),42 Street,2015-01-04,IND,A,8Ave,2015,01,Jan,2,Sun,"A2,3",2
+Station Cleaning,59 STREET-COLUMBUS CIRCLE (8AVE),59 Street-Columbus Circle,2015-01-04,IND,A,8Ave,2015,01,Jan,2,Sun,"A2,3",2
+Station Cleaning,CANAL STREET (8AVE),Canal St at Church St.,2015-01-04,IND,A,8Ave,2015,01,Jan,2,Sun,A4,1
+Station Cleaning,SPRING STREET (8AVE),Spring Street,2015-01-04,IND,A,8Ave,2015,01,Jan,2,Sun,A2,1
+Station Cleaning,WEST 4 STREET /WASHINGTON SQ. (8AVE),West 4 street /Washington Wq.,2015-01-04,IND,A,8Ave,2015,01,Jan,2,Sun,A2,1
+Station Cleaning,BOWERY STREET (JAM),Bowery Street,2015-01-05,BMT,J,Jam,2015,01,Jan,2,Mon,"J1,2",2
+Station Cleaning,BROAD STREET (JAM),Broad Street,2015-01-05,BMT,J,Jam,2015,01,Jan,2,Mon,"R1,2",2
+Station Cleaning,CANAL STREET (JAM),Canal St at Center St.,2015-01-05,BMT,J,Jam,2015,01,Jan,2,Mon,"J1,2",2
+Station Cleaning,CHAMBERS STREET (JAM),Chambers St at Centre St.,2015-01-05,BMT,J,Jam,2015,01,Jan,2,Mon,"J1,2",2
+Station Cleaning,ESSEX STREET (JAM),Essex Street,2015-01-05,BMT,J,Jam,2015,01,Jan,2,Mon,"J1,3",2
+Station Cleaning,FULTON STREET (JAM),Fulton Street,2015-01-05,BMT,J,Jam,2015,01,Jan,2,Mon,"R1,2",2
+Station Cleaning,14 STREET (6AVE),14 Street,2015-01-13,IND,B,6Ave,2015,01,Jan,3,Tue,B1,1
+Station Cleaning,23 STREET (6AVE),23 Street,2015-01-13,IND,B,6Ave,2015,01,Jan,3,Tue,B1,1
+Station Cleaning,34 STREET (PENN STATION) (8AVE),34 Street,2015-01-13,IND,A,8Ave,2015,01,Jan,3,Tue,"B1,4",2
+Station Cleaning,42 STREET-BRYANT PARK (6AVE),42 Street-Bryant Park,2015-01-13,IND,B,6Ave,2015,01,Jan,3,Tue,"B1,4",2
+Station Cleaning,47-50 STREET (ROCKEFELLER CTR) (6AVE),47-50 Street,2015-01-13,IND,B,6Ave,2015,01,Jan,3,Tue,"B1,4",2
+Station Cleaning,DELANCEY STREET (6AVE),Delancey Street,2015-01-13,IND,B,6Ave,2015,01,Jan,3,Tue,"B1,2",2
+Station Cleaning,EAST BROADWAY (6AVE),East Broadway,2015-01-13,IND,B,6Ave,2015,01,Jan,3,Tue,"B1,2",2
+Station Cleaning,WEST 4 STREET/WASHINGTON SQ. (6AVE),West 4 Street/Washington Sq.,2015-01-13,IND,B,6Ave,2015,01,Jan,3,Tue,"B1,2",2
+Station Cleaning,YORK STREET (6AVE),York Street,2015-01-13,IND,B,6Ave,2015,01,Jan,3,Tue,"B1,2",2
+Station Cleaning,15 STREET (PROSPECT PARK) (6AVE),15 Street,2015-01-21,IND,B,6Ave,2015,01,Jan,4,Wed,B2,1
+Station Cleaning,4 AVENUE (6AVE),4 Avenue,2015-01-21,IND,B,6Ave,2015,01,Jan,4,Wed,B1,1
+Station Cleaning,7 AVENUE (BKLYN) (6AVE),7 Avenue,2015-01-21,IND,B,6Ave,2015,01,Jan,4,Wed,"B1,2",2
+Station Cleaning,BERGEN STREET (6AVE),Bergen Street,2015-01-21,IND,B,6Ave,2015,01,Jan,4,Wed,"B1,2",2
+Station Cleaning,CARROLL STREET (6AVE),Carroll Street,2015-01-21,IND,B,6Ave,2015,01,Jan,4,Wed,B1,1
+Station Cleaning,CHURCH AVENUE (6AVE),Church Avenue,2015-01-21,IND,B,6Ave,2015,01,Jan,4,Wed,"B1,2",2
+Station Cleaning,FORT HAMILTON PARKWAY (6AVE),Fort Hamilton Parkway,2015-01-21,IND,B,6Ave,2015,01,Jan,4,Wed,B2,1
+Station Cleaning,JAY STREET (FUL),Jay Street,2015-01-21,IND,B,Ful,2015,01,Jan,4,Wed,"B1,2",2
+Station Cleaning,SMITH 9 STREETS (6AVE),Smith 9 Streets,2015-01-21,IND,B,6Ave,2015,01,Jan,4,Wed,B1,1
+Station Cleaning,23 STREET (ELY AVENUE) (QNS),23 Street (ELY Ave),2015-01-22,IND,D,Qns,2015,01,Jan,4,Thu,D3,1
+Station Cleaning,5 AVENUE-53 ST (QNS),5 avenue-53 st,2015-01-22,IND,D,Qns,2015,01,Jan,4,Thu,D3,1
+Station Cleaning,LEXINGTON AVENUE (QNS),53 -Lexington,2015-01-22,IND,D,Qns,2015,01,Jan,4,Thu,D3,1
+Station Cleaning,QUEENS PLAZA (QNS),Queens Plaza,2015-01-22,IND,D,Qns,2015,01,Jan,4,Thu,D3,1
+Station Cleaning,2 AVENUE (6AVE),2 Avenue,2015-01-23,IND,B,6Ave,2015,01,Jan,4,Fri,B2,1
+Station Cleaning,23 STREET (6AVE),23 Street,2015-01-23,IND,B,6Ave,2015,01,Jan,4,Fri,B1,1
+Station Cleaning,34 STREET/HERALD SQ (6AVE),34 Street/Herald Sq,2015-01-23,IND,B,6Ave,2015,01,Jan,4,Fri,"B1,4",2
+Station Cleaning,42 STREET-BRYANT PARK (6AVE),42 Street-Bryant Park,2015-01-23,IND,B,6Ave,2015,01,Jan,4,Fri,"B3,4",2
+Station Cleaning,47-50 STREET (ROCKEFELLER CTR) (6AVE),47-50 Street,2015-01-23,IND,B,6Ave,2015,01,Jan,4,Fri,"B3,4",2
+Station Cleaning,59 STREET-COLUMBUS CIRCLE (8AVE),59 Street-Columbus Circle,2015-01-23,IND,A,8Ave,2015,01,Jan,4,Fri,"A1,4",2
+Station Cleaning,7 AVENUE (QNS),7 Avenue,2015-01-23,IND,D,Qns,2015,01,Jan,4,Fri,"B3,4",2
+Station Cleaning,BROADWAY-LAFAYETTE STREET (6AVE),Broadway-Lafayette Street,2015-01-23,IND,B,6Ave,2015,01,Jan,4,Fri,B2,1
+Station Cleaning,DELANCEY STREET (6AVE),Delancey Street,2015-01-23,IND,B,6Ave,2015,01,Jan,4,Fri,B2,1
+Station Cleaning,WEST 4 STREET/WASHINGTON SQ. (6AVE),West 4 Street/Washington Sq.,2015-01-23,IND,B,6Ave,2015,01,Jan,4,Fri,B2,1
+Station Cleaning,YORK STREET (6AVE),York Street,2015-01-23,IND,B,6Ave,2015,01,Jan,4,Fri,B2,1
+Station Cleaning,2 AVENUE (6AVE),2 Avenue,2015-01-24,IND,B,6Ave,2015,01,Jan,4,Sat,B2,1
+Station Cleaning,42 STREET-BRYANT PARK (6AVE),42 Street-Bryant Park,2015-01-24,IND,B,6Ave,2015,01,Jan,4,Sat,B2,1
+Station Cleaning,47-50 STREET (ROCKEFELLER CTR) (6AVE),47-50 Street,2015-01-24,IND,B,6Ave,2015,01,Jan,4,Sat,B2,1
+Station Cleaning,57 STREET (6AVE),57 St / 7th Ave,2015-01-24,IND,B,6Ave,2015,01,Jan,4,Sat,B6,1
+Station Cleaning,BROADWAY-LAFAYETTE STREET (6AVE),Broadway-Lafayette Street,2015-01-24,IND,B,6Ave,2015,01,Jan,4,Sat,B2,1
+Station Cleaning,DELANCEY STREET (6AVE),Delancey Street,2015-01-24,IND,B,6Ave,2015,01,Jan,4,Sat,B2,1
+Station Cleaning,EAST BROADWAY (6AVE),East Broadway,2015-01-24,IND,B,6Ave,2015,01,Jan,4,Sat,B2,1
+Station Cleaning,JAY STREET (FUL),Jay Street,2015-01-24,IND,B,Ful,2015,01,Jan,4,Sat,B2,1
+Station Cleaning,LEXINGTON AVENUE (63RD),63 -Lexington,2015-01-24,IND,T,63St,2015,01,Jan,4,Sat,T2,1
+Station Cleaning,WEST 4 STREET/WASHINGTON SQ. (6AVE),West 4 Street/Washington Sq.,2015-01-24,IND,B,6Ave,2015,01,Jan,4,Sat,B2,1
+Station Cleaning,YORK STREET (6AVE),York Street,2015-01-24,IND,B,6Ave,2015,01,Jan,4,Sat,B2,1
+Station Cleaning,14 STREET/UNION SQ  (BWY),14 Street/Union Sq,2015-01-25,BMT,A,Bwy,2015,01,Jan,5,Sun,"A3,4",2
+Station Cleaning,34 STREET/HERALD SQ (BWY),34 Street/Herald Sq,2015-01-25,BMT,A,Bwy,2015,01,Jan,5,Sun,A3,1
+Station Cleaning,CANAL STREET (BWY) U.L.,Canal St at Brdwy (Upper),2015-01-25,BMT,A,Bwy,2015,01,Jan,5,Sun,"B1,2",2
+Station Cleaning,CITY HALL (BWY),City Hall,2015-01-25,BMT,B,Bwy,2015,01,Jan,5,Sun,"B1,2",2
+Station Cleaning,CORTLANDT STREET (BWY),Cortlandt Street,2015-01-25,BMT,A,Bwy,2015,01,Jan,5,Sun,"B1,2",2
+Station Cleaning,RECTOR STREET (BWY),Rector Street,2015-01-25,BMT,B,Bwy,2015,01,Jan,5,Sun,"B1,2",2
+Station Cleaning,14 STREET/UNION SQ  (BWY),14 Street/Union Sq,2015-01-26,BMT,A,Bwy,2015,01,Jan,5,Mon,A1,1
+Station Cleaning,34 STREET/HERALD SQ (BWY),34 Street/Herald Sq,2015-01-26,BMT,A,Bwy,2015,01,Jan,5,Mon,A4,1
+Station Cleaning,42 STREET/TIMES SQUARE (BWY),42 Street/Times Square,2015-01-26,BMT,A,Bwy,2015,01,Jan,5,Mon,"A1,4",2
+Station Cleaning,5 AVENUE (AST),5 Av - 59 St,2015-01-26,BMT,G,Ast,2015,01,Jan,5,Mon,"G1,2",2
+Station Cleaning,57 STREET (BWY),57 St / 6th Ave,2015-01-26,BMT,A,Bwy,2015,01,Jan,5,Mon,"A1,2",2
+Station Cleaning,LEXINGTON AVENUE (AST),59 -Lexington,2015-01-26,BMT,G,Ast,2015,01,Jan,5,Mon,"G1,2",2
+Station Cleaning,QUEENS PLAZA (QNS),Queens Plaza,2015-01-26,IND,D,Qns,2015,01,Jan,5,Mon,"D2,3",2
+Station Cleaning,14 STREET (6AVE),14 Street,2015-02-09,IND,B,6Ave,2015,02,Feb,7,Mon,B2,1
+Station Cleaning,2 AVENUE (6AVE),2 Avenue,2015-02-09,IND,B,6Ave,2015,02,Feb,7,Mon,B1,1
+Station Cleaning,23 STREET (6AVE),23 Street,2015-02-09,IND,B,6Ave,2015,02,Feb,7,Mon,"B1,2",2
+Station Cleaning,34 STREET/HERALD SQ (6AVE),34 Street/Herald Sq,2015-02-09,IND,B,6Ave,2015,02,Feb,7,Mon,"B1,2",2
+Station Cleaning,42 STREET-BRYANT PARK (6AVE),42 Street-Bryant Park,2015-02-09,IND,B,6Ave,2015,02,Feb,7,Mon,B2,1
+Station Cleaning,BROADWAY-LAFAYETTE STREET (6AVE),Broadway-Lafayette Street,2015-02-09,IND,B,6Ave,2015,02,Feb,7,Mon,B1,1
+Station Cleaning,DELANCEY STREET (6AVE),Delancey Street,2015-02-09,IND,B,6Ave,2015,02,Feb,7,Mon,B1,1
+Station Cleaning,EAST BROADWAY (6AVE),East Broadway,2015-02-09,IND,B,6Ave,2015,02,Feb,7,Mon,B1,1
+Station Cleaning,JAY STREET (FUL),Jay Street,2015-02-09,IND,B,Ful,2015,02,Feb,7,Mon,B1,1
+Station Cleaning,YORK STREET (6AVE),York Street,2015-02-09,IND,B,6Ave,2015,02,Feb,7,Mon,B1,1
+Station Cleaning,15 STREET (PROSPECT PARK) (6AVE),15 Street,2015-02-11,IND,B,6Ave,2015,02,Feb,7,Wed,B1,1
+Station Cleaning,4 AVENUE (6AVE),4 Avenue,2015-02-11,IND,B,6Ave,2015,02,Feb,7,Wed,B1,1
+Station Cleaning,7 AVENUE (BKLYN) (6AVE),7 Avenue,2015-02-11,IND,B,6Ave,2015,02,Feb,7,Wed,"B1,4",2
+Station Cleaning,BERGEN STREET (6AVE),Bergen Street,2015-02-11,IND,B,6Ave,2015,02,Feb,7,Wed,B2,1
+Station Cleaning,CARROLL STREET (6AVE),Carroll Street,2015-02-11,IND,B,6Ave,2015,02,Feb,7,Wed,"B1,2",2
+Station Cleaning,CHURCH AVENUE (6AVE),Church Avenue,2015-02-11,IND,B,6Ave,2015,02,Feb,7,Wed,"B1,4",2
+Station Cleaning,FORT HAMILTON PARKWAY (6AVE),Fort Hamilton Parkway,2015-02-11,IND,B,6Ave,2015,02,Feb,7,Wed,B1,1
+Station Cleaning,SMITH 9 STREETS (6AVE),Smith 9 Streets,2015-02-11,IND,B,6Ave,2015,02,Feb,7,Wed,"B1,2",2
+Station Cleaning,137 STREET (7BWY),137 Street,2015-02-13,IRT,BB,7Bwy,2015,02,Feb,7,Fri,BB4,1
+Station Cleaning,145 STREET (7BWY),145 Street,2015-02-13,IRT,BB,7Bwy,2015,02,Feb,7,Fri,BB4,1
+Station Cleaning,157 STREET (7BWY),157 Street,2015-02-13,IRT,BB,7Bwy,2015,02,Feb,7,Fri,BB4,1
+Station Cleaning,168 STREET (7BWY),168 Street,2015-02-13,IRT,BB,7Bwy,2015,02,Feb,7,Fri,BB4,1
+Station Cleaning,181 STREET (7BWY),181 Street,2015-02-13,IRT,BB,7Bwy,2015,02,Feb,7,Fri,BB4,1
+Station Cleaning,191 STREET (7BWY),191 Street,2015-02-13,IRT,BB,7Bwy,2015,02,Feb,7,Fri,BB4,1
+Station Cleaning,CLINTON-WASHINGTON (FUL),Clinton-Washington,2015-02-15,IND,A,Ful,2015,02,Feb,8,Sun,A2,1
+Station Cleaning,FRANKLIN AVENUE (EPKY),Franklin Avenue,2015-02-15,IRT,E,Epky,2015,02,Feb,8,Sun,A2,1
+Station Cleaning,JAY STREET (FUL),Jay Street,2015-02-15,IND,B,Ful,2015,02,Feb,8,Sun,"A3,B2",2
+Station Cleaning,KINGSTON THROOP AVENUES (FUL),Kingston Throop Avenues,2015-02-15,IND,A,Ful,2015,02,Feb,8,Sun,A2,1
+Station Cleaning,NOSTRAND AVENUE (FUL),Nostrand Avenue,2015-02-15,IND,A,Ful,2015,02,Feb,8,Sun,A2,1
+Station Cleaning,UTICA AVENUE (FUL),Utica Avenue,2015-02-15,IND,A,Ful,2015,02,Feb,8,Sun,A2,1
+Station Cleaning,21 STREET (VAN ALST) (XTWN),21 Street (Van Alst),2015-02-20,IND,E,Xtwn,2015,02,Feb,8,Fri,E1,1
+Station Cleaning,BEDFORD-NOSTRAND AVE (XTWN),Bedford-Nostrand Ave,2015-02-20,IND,E,Xtwn,2015,02,Feb,8,Fri,E3/4,1
+Station Cleaning,BERGEN STREET (6AVE),Bergen Street,2015-02-20,IND,B,6Ave,2015,02,Feb,8,Fri,B2,1
+Station Cleaning,BROADWAY (XTWN),Broadway,2015-02-20,IND,E,Xtwn,2015,02,Feb,8,Fri,E2,1
+Station Cleaning,BROADWAY (XTWN),Broadway,2015-02-20,IND,E,Xtwn,2015,02,Feb,8,Fri,E2,1
+Station Cleaning,FLUSHING AVENUE (XTWN),Flushing Avenue,2015-02-20,IND,E,Xtwn,2015,02,Feb,8,Fri,"E1,2",1
+Station Cleaning,GREENPOINT AVENUE (XTWN),Greenpoint Avenue,2015-02-20,IND,E,Xtwn,2015,02,Feb,8,Fri,E1,1
+Station Cleaning,METROPOLITAN AVENUE (XTWN),Metropolitan Avenue,2015-02-20,IND,E,Xtwn,2015,02,Feb,8,Fri,"E1,2",2
+Station Cleaning,MYRTLE-WILLOUGHBY AVENUES (XTWN),Myrtle-Willoughby Avenues,2015-02-20,IND,E,Xtwn,2015,02,Feb,8,Fri,E2,1
+Station Cleaning,NASSAU AVENUE (XTWN),Nassau Avenue,2015-02-20,IND,E,Xtwn,2015,02,Feb,8,Fri,E2,1
+Station Cleaning,125 STREET (8AVE),125 Street,2015-02-21,IND,A,8Ave,2015,02,Feb,8,Sat,A4,1
+Station Cleaning,145 STREET (8AVE),145 Street,2015-02-21,IND,A,8Ave,2015,02,Feb,8,Sat,a4,1
+Station Cleaning,BROADWAY JCT. EAST NEW YORK (FUL),Broadway Jct East NY,2015-02-22,IND,A,Ful,2015,02,Feb,9,Sun,A2,1
+Station Cleaning,CLINTON-WASHINGTON (FUL),Clinton-Washington,2015-02-22,IND,A,Ful,2015,02,Feb,9,Sun,A1,1
+Station Cleaning,EUCLID AVENUE (FUL),Euclid Avenue,2015-02-22,IND,A,Ful,2015,02,Feb,9,Sun,A2,1
+Station Cleaning,FRANKLIN AVENUE (FUL),Franklin Avenue,2015-02-22,IND,A,Ful,2015,02,Feb,9,Sun,A1,1
+Station Cleaning,HOYT SCHERMERHORN STREETS (FUL),Hoyt Schermerhorn St,2015-02-22,IND,A,Ful,2015,02,Feb,9,Sun,A3,1
+Station Cleaning,JAY STREET (8AV),Jay Street,2015-02-22,IND,A,8Ave,2015,02,Feb,9,Sun,A3,1
+Station Cleaning,LAFAYETTE AVENUE (FUL),Lafayette Avenue,2015-02-22,IND,A,Ful,2015,02,Feb,9,Sun,A1,1
+Station Cleaning,LIBERTY AVENUE (FUL),Liberty Avenue,2015-02-22,IND,A,Ful,2015,02,Feb,9,Sun,A2,1
+Station Cleaning,RALPH AVENUE (FUL),Ralph Avenue,2015-02-22,IND,A,Ful,2015,02,Feb,9,Sun,A2,1
+Station Cleaning,ROCKAWAY AVENUE (FUL),Rockaway Avenue,2015-02-22,IND,A,Ful,2015,02,Feb,9,Sun,A2,1
+Station Cleaning,SHEPHERD AVENUE (FUL),Shepherd Avenue,2015-02-22,IND,A,Ful,2015,02,Feb,9,Sun,A2,1
+Station Cleaning,UTICA AVENUE (FUL),Utica Avenue,2015-02-22,IND,A,Ful,2015,02,Feb,9,Sun,A2,1
+Station Cleaning,VAN SICLEN AVENUE (FUL),Van Siclen Avenue,2015-02-22,IND,A,Ful,2015,02,Feb,9,Sun,A2,1
+Station Cleaning,BOWERY STREET (JAM),Bowery Street,2015-02-23,BMT,J,Jam,2015,02,Feb,9,Mon,"J2,4",2
+Station Cleaning,CANAL STREET (JAM),Canal St at Center St.,2015-02-23,BMT,J,Jam,2015,02,Feb,9,Mon,"J2,4",2
+Station Cleaning,CHAMBERS STREET (JAM),Chambers St at Centre St.,2015-02-23,BMT,J,Jam,2015,02,Feb,9,Mon,J4,1
+Station Cleaning,ESSEX STREET (JAM),Essex Street,2015-02-23,BMT,J,Jam,2015,02,Feb,9,Mon,"J1,2,3",3
+Station Cleaning,15 STREET (PROSPECT PARK) (6AVE),15 Street,2015-02-24,IND,B,6Ave,2015,02,Feb,9,Tue,"B1,2",2
+Station Cleaning,4 AVENUE (6AVE),4 Avenue,2015-02-24,IND,B,6Ave,2015,02,Feb,9,Tue,B1,1
+Station Cleaning,7 AVENUE (BKLYN) (6AVE),7 Avenue,2015-02-24,IND,B,6Ave,2015,02,Feb,9,Tue,B1,1
+Station Cleaning,BERGEN STREET (6AVE),Bergen Street,2015-02-24,IND,B,6Ave,2015,02,Feb,9,Tue,"B1,2",2
+Station Cleaning,CARROLL STREET (6AVE),Carroll Street,2015-02-24,IND,B,6Ave,2015,02,Feb,9,Tue,"B1,2",2
+Station Cleaning,CHURCH AVENUE (6AVE),Church Avenue,2015-02-24,IND,B,6Ave,2015,02,Feb,9,Tue,B1,1
+Station Cleaning,FORT HAMILTON PARKWAY (6AVE),Fort Hamilton Parkway,2015-02-24,IND,B,6Ave,2015,02,Feb,9,Tue,"B1,2",2
+Station Cleaning,JAY STREET (FUL),Jay Street,2015-02-24,IND,B,Ful,2015,02,Feb,9,Tue,"B1,2",2
+Station Cleaning,SMITH 9 STREETS (6AVE),Smith 9 Streets,2015-02-24,IND,B,6Ave,2015,02,Feb,9,Tue,B1,1
+Station Cleaning,59 STREET (4AVE),59 Street,2015-02-27,BMT,F,4Ave,2015,02,Feb,9,Fri,"F1,2,3,4",4
+Station Cleaning,77 STREET (4AVE),77 Street,2015-02-27,BMT,F,4Ave,2015,02,Feb,9,Fri,"F1,2",2
+Station Cleaning,86 STREET (4AVE),86 Street,2015-02-27,BMT,F,4Ave,2015,02,Feb,9,Fri,"F1,2",2
+Station Cleaning,95 STREET (BAY RIDGE) (4AVE),95-Bay Ridge,2015-02-27,BMT,F,4Ave,2015,02,Feb,9,Fri,"F1,2",2
+Station Cleaning,BAY RIDGE AVENUE (4AVE),Bay Ridge Avenue,2015-02-27,BMT,F,4Ave,2015,02,Feb,9,Fri,"F1,2",2
+Station Cleaning,36 STREET (4AVE),36 Street,2015-03-02,BMT,F,4Ave,2015,03,Mar,10,Mon,F1,1
+Station Cleaning,45 STREET (4AVE),45 Street,2015-03-02,BMT,F,4Ave,2015,03,Mar,10,Mon,F1,1
+Station Cleaning,53 STREET (4AVE),53 Street,2015-03-02,BMT,F,4Ave,2015,03,Mar,10,Mon,F1,1
+Station Cleaning,59 STREET (4AVE),59 Street,2015-03-02,BMT,F,4Ave,2015,03,Mar,10,Mon,F1,1
+Station Cleaning,77 STREET (4AVE),77 Street,2015-03-02,BMT,F,4Ave,2015,03,Mar,10,Mon,F1,1
+Station Cleaning,86 STREET (4AVE),86 Street,2015-03-02,BMT,F,4Ave,2015,03,Mar,10,Mon,F1,1
+Station Cleaning,95 STREET (BAY RIDGE) (4AVE),95-Bay Ridge,2015-03-02,BMT,F,4Ave,2015,03,Mar,10,Mon,F1,1
+Station Cleaning,BAY RIDGE AVENUE (4AVE),Bay Ridge Avenue,2015-03-02,BMT,F,4Ave,2015,03,Mar,10,Mon,F1,1
+Station Cleaning,DEKALB AVENUE (4AVE),Dekalb Avenue,2015-03-02,BMT,F,4Ave,2015,03,Mar,10,Mon,"B1,2",2
+Station Cleaning,PACIFIC STREET (4AVE),Pacific Street,2015-03-02,BMT,F,4Ave,2015,03,Mar,10,Mon,"F3,4",2
+Station Cleaning,BOWERY STREET (JAM),Bowery Street,2015-03-04,BMT,J,Jam,2015,03,Mar,10,Wed,"J2,J4",2
+Station Cleaning,CANAL STREET (JAM),Canal St at Center St.,2015-03-04,BMT,J,Jam,2015,03,Mar,10,Wed,"J1,J2,J4",3
+Station Cleaning,CHAMBERS STREET (JAM),Chambers St at Centre St.,2015-03-04,BMT,J,Jam,2015,03,Mar,10,Wed,J4,1
+Station Cleaning,ESSEX STREET (JAM),Essex Street,2015-03-04,BMT,J,Jam,2015,03,Mar,10,Wed,"J1,J2",2
+Station Cleaning,205 STREET (NORWOOD)(CONC),205 Street,2015-03-05,IND,C,Conc,2015,03,Mar,10,Thu,C2,1
+Station Cleaning,36 STREET (4AVE),36 Street,2015-03-05,BMT,F,4Ave,2015,03,Mar,10,Thu,F1,1
+Station Cleaning,45 STREET (4AVE),45 Street,2015-03-05,BMT,F,4Ave,2015,03,Mar,10,Thu,F1,1
+Station Cleaning,53 STREET (4AVE),53 Street,2015-03-05,BMT,F,4Ave,2015,03,Mar,10,Thu,F1,1
+Station Cleaning,59 STREET (4AVE),59 Street,2015-03-05,BMT,F,4Ave,2015,03,Mar,10,Thu,"F1,2",2
+Station Cleaning,77 STREET (4AVE),77 Street,2015-03-05,BMT,F,4Ave,2015,03,Mar,10,Thu,"F1,2",2
+Station Cleaning,86 STREET (4AVE),86 Street,2015-03-05,BMT,F,4Ave,2015,03,Mar,10,Thu,"F1,2",2
+Station Cleaning,95 STREET (BAY RIDGE) (4AVE),95-Bay Ridge,2015-03-05,BMT,F,4Ave,2015,03,Mar,10,Thu,"F1,2",2
+Station Cleaning,BAY RIDGE AVENUE (4AVE),Bay Ridge Avenue,2015-03-05,BMT,F,4Ave,2015,03,Mar,10,Thu,"F1,2",2
+Station Cleaning,PACIFIC STREET (4AVE),Pacific Street,2015-03-05,BMT,F,4Ave,2015,03,Mar,10,Thu,F3,1
+Station Cleaning,145 STREET (CONC),145 Street,2015-03-07,IND,C,Conc,2015,03,Mar,10,Sat,C3/4,1
+Station Cleaning,BEDFORD PARK BLVD. (CONC),Bedford Park Blvd.,2015-03-07,IND,C,Conc,2015,03,Mar,10,Sat,C6,1
+Station Cleaning,FORDHAM ROAD (CONC),Fordham Road,2015-03-07,IND,C,Conc,2015,03,Mar,10,Sat,C3/4,1
+Station Cleaning,KINGSBRIDGE ROAD (CONC),Kingsbridge Road,2015-03-07,IND,C,Conc,2015,03,Mar,10,Sat,C3/4,1
+Station Cleaning,TREMONT AVENUE (CONC),Tremont Avenue,2015-03-07,IND,C,Conc,2015,03,Mar,10,Sat,C3/4,1
+Station Cleaning,125 STREET (LEX),125 Street,2015-03-08,IRT,L,Lex,2015,03,Mar,11,Sun,"L1,3",2
+Station Cleaning,14 STREET/UNION SQ (LEX),14 Street/Union Sq,2015-03-08,IRT,MM,Lex,2015,03,Mar,11,Sun,"MM2,3",2
+Station Cleaning,42 STREET/GRAND CENTRAL (LEX),42 Street/Grand Central,2015-03-08,IRT,L,Lex,2015,03,Mar,11,Sun,"L2,3",2
+Station Cleaning,59 STREET (LEX),59 Street,2015-03-08,IRT,L,Lex,2015,03,Mar,11,Sun,"L2,3",2
+Station Cleaning,86 STREET (LEX),86 Street,2015-03-08,IRT,L,Lex,2015,03,Mar,11,Sun,"L2,3",2
+Station Cleaning,BROOKLYN BRIDGE (CITY HALL) (LEX),Brooklyn Bridge,2015-03-08,IRT,M,Lex,2015,03,Mar,11,Sun,"MM2,3",2
+Station Cleaning,BOWERY STREET (JAM),Bowery Street,2015-03-09,BMT,J,Jam,2015,03,Mar,11,Mon,"J2,4",2
+Station Cleaning,BROAD STREET (JAM),Broad Street,2015-03-09,BMT,J,Jam,2015,03,Mar,11,Mon,"R1,2",2
+Station Cleaning,CANAL STREET (JAM),Canal St at Center St.,2015-03-09,BMT,J,Jam,2015,03,Mar,11,Mon,"J2,4",2
+Station Cleaning,CHAMBERS STREET (JAM),Chambers St at Centre St.,2015-03-09,BMT,J,Jam,2015,03,Mar,11,Mon,"J2,4",2
+Station Cleaning,ESSEX STREET (JAM),Essex Street,2015-03-09,BMT,J,Jam,2015,03,Mar,11,Mon,"J1,2",2
+Station Cleaning,FULTON STREET (JAM),Fulton Street,2015-03-09,BMT,J,Jam,2015,03,Mar,11,Mon,"R1,2",2
+Station Cleaning,36 STREET (4AVE),36 Street,2015-03-10,BMT,F,4Ave,2015,03,Mar,11,Tue,F1,1
+Station Cleaning,45 STREET (4AVE),45 Street,2015-03-10,BMT,F,4Ave,2015,03,Mar,11,Tue,F1,1
+Station Cleaning,53 STREET (4AVE),53 Street,2015-03-10,BMT,F,4Ave,2015,03,Mar,11,Tue,F1,1
+Station Cleaning,59 STREET (4AVE),59 Street,2015-03-10,BMT,F,4Ave,2015,03,Mar,11,Tue,"F1,4",2
+Station Cleaning,77 STREET (4AVE),77 Street,2015-03-10,BMT,F,4Ave,2015,03,Mar,11,Tue,F1,1
+Station Cleaning,86 STREET (4AVE),86 Street,2015-03-10,BMT,F,4Ave,2015,03,Mar,11,Tue,"F1,2",2
+Station Cleaning,95 STREET (BAY RIDGE) (4AVE),95-Bay Ridge,2015-03-10,BMT,F,4Ave,2015,03,Mar,11,Tue,F1,1
+Station Cleaning,BAY RIDGE AVENUE (4AVE),Bay Ridge Avenue,2015-03-10,BMT,F,4Ave,2015,03,Mar,11,Tue,F1,1
+Station Cleaning,PACIFIC STREET (4AVE),Pacific Street,2015-03-10,BMT,F,4Ave,2015,03,Mar,11,Tue,F3,1
+Station Cleaning,BROADWAY JCT. EAST NEW YORK (FUL),Broadway Jct East NY,2015-03-11,IND,A,Ful,2015,03,Mar,11,Wed,"A1,2",2
+Station Cleaning,CLINTON-WASHINGTON (FUL),Clinton-Washington,2015-03-11,IND,A,Ful,2015,03,Mar,11,Wed,A1,1
+Station Cleaning,EUCLID AVENUE (FUL),Euclid Avenue,2015-03-11,IND,A,Ful,2015,03,Mar,11,Wed,A4,1
+Station Cleaning,FRANKLIN AVENUE (FUL),Franklin Avenue,2015-03-11,IND,A,Ful,2015,03,Mar,11,Wed,A1,1
+Station Cleaning,HOYT SCHERMERHORN STREETS (FUL),Hoyt Schermerhorn St,2015-03-11,IND,A,Ful,2015,03,Mar,11,Wed,A3,1
+Station Cleaning,JAY STREET (8AV),Jay Street,2015-03-11,IND,A,8Ave,2015,03,Mar,11,Wed,A3B2,2
+Station Cleaning,LAFAYETTE AVENUE (FUL),Lafayette Avenue,2015-03-11,IND,A,Ful,2015,03,Mar,11,Wed,A1,1
+Station Cleaning,LIBERTY AVENUE (FUL),Liberty Avenue,2015-03-11,IND,A,Ful,2015,03,Mar,11,Wed,A2,1
+Station Cleaning,SHEPHERD AVENUE (FUL),Shepherd Avenue,2015-03-11,IND,A,Ful,2015,03,Mar,11,Wed,A2,1
+Station Cleaning,UTICA AVENUE (FUL),Utica Avenue,2015-03-11,IND,A,Ful,2015,03,Mar,11,Wed,"A1,2",2
+Station Cleaning,VAN SICLEN AVENUE (FUL),Van Siclen Avenue,2015-03-11,IND,A,Ful,2015,03,Mar,11,Wed,A2,1
+Station Cleaning,15 STREET (PROSPECT PARK) (6AVE),15 Street,2015-03-12,IND,B,6Ave,2015,03,Mar,11,Thu,B2,1
+Station Cleaning,4 AVENUE (6AVE),4 Avenue,2015-03-12,IND,B,6Ave,2015,03,Mar,11,Thu,B1,1
+Station Cleaning,7 AVENUE (BKLYN) (6AVE),7 Avenue,2015-03-12,IND,B,6Ave,2015,03,Mar,11,Thu,"b1,2,4",3
+Station Cleaning,8 AVENUE (SBEA),8 Avenue,2015-03-12,BMT,E,Seab,2015,03,Mar,11,Thu,"E1,2",2
+Station Cleaning,BERGEN STREET (6AVE),Bergen Street,2015-03-12,IND,B,6Ave,2015,03,Mar,11,Thu,B1,1
+Station Cleaning,CARROLL STREET (6AVE),Carroll Street,2015-03-12,IND,B,6Ave,2015,03,Mar,11,Thu,B1,1
+Station Cleaning,CHURCH AVENUE (6AVE),Church Avenue,2015-03-12,IND,B,6Ave,2015,03,Mar,11,Thu,"B2,4",2
+Station Cleaning,FORT HAMILTON PARKWAY (6AVE),Fort Hamilton Parkway,2015-03-12,IND,B,6Ave,2015,03,Mar,11,Thu,B2,1
+Station Cleaning,JAY STREET (FUL),Jay Street,2015-03-12,IND,B,Ful,2015,03,Mar,11,Thu,"B1,2",2
+Station Cleaning,2 AVENUE (6AVE),2 Avenue,2015-03-13,IND,B,6Ave,2015,03,Mar,11,Fri,B2,1
+Station Cleaning,34 STREET/HERALD SQ (6AVE),34 Street/Herald Sq,2015-03-13,IND,B,6Ave,2015,03,Mar,11,Fri,B2,1
+Station Cleaning,47-50 STREET (ROCKEFELLER CTR) (6AVE),47-50 Street,2015-03-13,IND,B,6Ave,2015,03,Mar,11,Fri,B4,1
+Station Cleaning,57 STREET (6AVE),57 St / 7th Ave,2015-03-13,IND,B,6Ave,2015,03,Mar,11,Fri,"B5,6",2
+Station Cleaning,7 AVENUE (BKLYN) (6AVE),7 Avenue,2015-03-13,IND,B,6Ave,2015,03,Mar,11,Fri,B4,1
+Station Cleaning,BROADWAY-LAFAYETTE STREET (6AVE),Broadway-Lafayette Street,2015-03-13,IND,B,6Ave,2015,03,Mar,11,Fri,B2,1
+Station Cleaning,DELANCEY STREET (6AVE),Delancey Street,2015-03-13,IND,B,6Ave,2015,03,Mar,11,Fri,B2,1
+Station Cleaning,EAST BROADWAY (6AVE),East Broadway,2015-03-13,IND,B,6Ave,2015,03,Mar,11,Fri,B2,1
+Station Cleaning,JAY STREET (FUL),Jay Street,2015-03-13,IND,B,Ful,2015,03,Mar,11,Fri,B2,1
+Station Cleaning,WEST 4 STREET/WASHINGTON SQ. (6AVE),West 4 Street/Washington Sq.,2015-03-13,IND,B,6Ave,2015,03,Mar,11,Fri,B2,1
+Station Cleaning,YORK STREET (6AVE),York Street,2015-03-13,IND,B,6Ave,2015,03,Mar,11,Fri,B2,1
+Station Cleaning,36 STREET (QNS),36 Street,2015-03-14,IND,D,Qns,2015,03,Mar,11,Sat,D2,1
+Station Cleaning,63 DRIVE (REGO PARK) (QNS),63 Drive,2015-03-14,IND,D,Qns,2015,03,Mar,11,Sat,"D1,2",2
+Station Cleaning,67 AVENUE (QNS),67 Avenue,2015-03-14,IND,D,Qns,2015,03,Mar,11,Sat,D1.2,2
+Station Cleaning,71 CONTINENTAL AVE (FOREST HILLS) (QNS),71 Continental Ave,2015-03-14,IND,D,Qns,2015,03,Mar,11,Sat,"D2,3",2
+Station Cleaning,ELMHURST AVENUE (QNS),Elmhurst Avenue,2015-03-14,IND,D,Qns,2015,03,Mar,11,Sat,D2,1
+Station Cleaning,GRAND AVENUE/NEWTOWN (QNS),Grand Avenue/Newtown,2015-03-14,IND,D,Qns,2015,03,Mar,11,Sat,D2,1
+Station Cleaning,WOODHAVEN BLVD. (QUEENS MALL) (QNS),Woodhaven Blvd.,2015-03-14,IND,D,Qns,2015,03,Mar,11,Sat,"D1,2",2
+Station Cleaning,145 STREET (8AVE),145 Street,2015-03-16,IND,A,8Ave,2015,03,Mar,12,Mon,A4,1
+Station Cleaning,155 STREET (8AVE),155 Street,2015-03-16,IND,A,8Ave,2015,03,Mar,12,Mon,A2,1
+Station Cleaning,163 STREET-AMSTERDAM AVENUE (8AVE),163 Street-Amsterdam Avenue,2015-03-16,IND,A,8Ave,2015,03,Mar,12,Mon,A2,1
+Station Cleaning,168 STREET-WASHINGTON HTS (8AVE),168 Street-Washington Hts,2015-03-16,IND,A,8Ave,2015,03,Mar,12,Mon,"A2,3",2
+Station Cleaning,175 STREET (8AVE),175 Street,2015-03-16,IND,A,8Ave,2015,03,Mar,12,Mon,"A3,4",2
+Station Cleaning,181 STREET (8AVE),181 Street,2015-03-16,IND,A,8Ave,2015,03,Mar,12,Mon,"A3,4",2
+Station Cleaning,190 STREET (8AVE),190 Street,2015-03-16,IND,A,8Ave,2015,03,Mar,12,Mon,"A3,4",2
+Station Cleaning,207 STREET (8AVE),207 Street,2015-03-16,IND,A,8Ave,2015,03,Mar,12,Mon,A4,1
+Station Cleaning,DYCKMAN STREET (200 STREET) (8AVE),200 -Dyckman,2015-03-16,IND,A,8Ave,2015,03,Mar,12,Mon,A3,1
+Station Cleaning,145 STREET (CONC),145 Street,2015-03-17,IND,C,Conc,2015,03,Mar,12,Tue,C3/4,1
+Station Cleaning,205 STREET (NORWOOD)(CONC),205 Street,2015-03-17,IND,C,Conc,2015,03,Mar,12,Tue,"C1,2",2
+Station Cleaning,BEDFORD PARK BLVD. (CONC),Bedford Park Blvd.,2015-03-17,IND,C,Conc,2015,03,Mar,12,Tue,"C1,2",2
+Station Cleaning,FORDHAM ROAD (CONC),Fordham Road,2015-03-17,IND,C,Conc,2015,03,Mar,12,Tue,C3/4,1
+Station Cleaning,KINGSBRIDGE ROAD (CONC),Kingsbridge Road,2015-03-17,IND,C,Conc,2015,03,Mar,12,Tue,C1 3/4,2
+Station Cleaning,TREMONT AVENUE (CONC),Tremont Avenue,2015-03-17,IND,C,Conc,2015,03,Mar,12,Tue,C3/4,1
+Station Cleaning,25 STREET (4AVE),25 Street,2015-03-18,BMT,F,4Ave,2015,03,Mar,12,Wed,F2,1
+Station Cleaning,36 STREET (4AVE),36 Street,2015-03-18,BMT,F,4Ave,2015,03,Mar,12,Wed,F2,1
+Station Cleaning,9 STREET (4AVE),9 Street,2015-03-18,BMT,F,4Ave,2015,03,Mar,12,Wed,F1,1
+Station Cleaning,PACIFIC STREET (4AVE),Pacific Street,2015-03-18,BMT,F,4Ave,2015,03,Mar,12,Wed,"F1,2",2
+Station Cleaning,PROSPECT AVENUE (4AVE),Prospect Avenue,2015-03-18,BMT,F,4Ave,2015,03,Mar,12,Wed,F1,1
+Station Cleaning,UNION STREET (4AVE),Union Street,2015-03-18,BMT,F,4Ave,2015,03,Mar,12,Wed,F1,1
+Station Cleaning,14 STREET/UNION SQ  (BWY),14 Street/Union Sq,2015-03-19,BMT,A,Bwy,2015,03,Mar,12,Thu,A3,1
+Station Cleaning,34 STREET/HERALD SQ (BWY),34 Street/Herald Sq,2015-03-19,BMT,A,Bwy,2015,03,Mar,12,Thu,A3,1
+Station Cleaning,42 STREET/TIMES SQUARE (BWY),42 Street/Times Square,2015-03-19,BMT,A,Bwy,2015,03,Mar,12,Thu,A3,1
+Station Cleaning,57 STREET (BWY),57 St / 6th Ave,2015-03-19,BMT,A,Bwy,2015,03,Mar,12,Thu,A4,1
+Station Cleaning,63 DRIVE (REGO PARK) (QNS),63 Drive,2015-03-20,IND,D,Qns,2015,03,Mar,12,Fri,D1,1
+Station Cleaning,7 AVENUE (BKLYN) (6AVE),7 Avenue,2015-03-20,IND,B,6Ave,2015,03,Mar,12,Fri,B4,1
+Station Cleaning,71 CONTINENTAL AVE (FOREST HILLS) (QNS),71 Continental Ave,2015-03-20,IND,D,Qns,2015,03,Mar,12,Fri,D1,1
+Station Cleaning,BERGEN STREET (6AVE),Bergen Street,2015-03-20,IND,B,6Ave,2015,03,Mar,12,Fri,B2,1
+Station Cleaning,CARROLL STREET (6AVE),Carroll Street,2015-03-20,IND,B,6Ave,2015,03,Mar,12,Fri,B2,1
+Station Cleaning,CHURCH AVENUE (6AVE),Church Avenue,2015-03-20,IND,B,6Ave,2015,03,Mar,12,Fri,B4,1
+Station Cleaning,ELMHURST AVENUE (QNS),Elmhurst Avenue,2015-03-20,IND,D,Qns,2015,03,Mar,12,Fri,D1,1
+Station Cleaning,FULTON STREET (XTWN),Fulton Street,2015-03-20,IND,E,Xtwn,2015,03,Mar,12,Fri,E2,1
+Station Cleaning,GRAND AVENUE/NEWTOWN (QNS),Grand Avenue/Newtown,2015-03-20,IND,D,Qns,2015,03,Mar,12,Fri,D1,1
+Station Cleaning,HOYT SCHERMERHORN ST (XTWN),Hoyt Schermerhorn st,2015-03-20,IND,EX,Xtwn,2015,03,Mar,12,Fri,E2,1
+Station Cleaning,QUEENS PLAZA (QNS),Queens Plaza,2015-03-20,IND,D,Qns,2015,03,Mar,12,Fri,D1,1
+Station Cleaning,SMITH 9 STREETS (6AVE),Smith 9 Streets,2015-03-20,IND,B,6Ave,2015,03,Mar,12,Fri,B2,1
+Station Cleaning,WOODHAVEN BLVD. (QUEENS MALL) (QNS),Woodhaven Blvd.,2015-03-20,IND,D,Qns,2015,03,Mar,12,Fri,D1,1
+Station Cleaning,14 STREET/UNION SQ  (BWY),14 Street/Union Sq,2015-03-21,BMT,A,Bwy,2015,03,Mar,12,Sat,"A3,4",2
+Station Cleaning,14 STREET/UNION SQ  (BWY),14 Street/Union Sq,2015-03-21,BMT,A,Bwy,2015,03,Mar,12,Sat,"A3,4",2
+Station Cleaning,42 STREET/TIMES SQUARE (BWY),42 Street/Times Square,2015-03-21,BMT,A,Bwy,2015,03,Mar,12,Sat,"A1,2",2
+Station Cleaning,49 STREET (BWY),49 Street,2015-03-21,BMT,A,Bwy,2015,03,Mar,12,Sat,"A1,2",2
+Station Cleaning,57 STREET (BWY),57 St / 6th Ave,2015-03-21,BMT,A,Bwy,2015,03,Mar,12,Sat,"A3,4",2
+Station Cleaning,CANAL STREET (BWY) U.L.,Canal St at Brdwy (Upper),2015-03-21,BMT,A,Bwy,2015,03,Mar,12,Sat,B2,1
+Station Cleaning,CITY HALL (BWY),City Hall,2015-03-21,BMT,B,Bwy,2015,03,Mar,12,Sat,B2,1
+Station Cleaning,CORTLANDT STREET (BWY),Cortlandt Street,2015-03-21,BMT,A,Bwy,2015,03,Mar,12,Sat,B2,1
+Station Cleaning,RECTOR STREET (BWY),Rector Street,2015-03-21,BMT,B,Bwy,2015,03,Mar,12,Sat,B2,1
+Station Cleaning,WHITEHALL STREET (BWY),Whitehall Street,2015-03-21,BMT,B,Bwy,2015,03,Mar,12,Sat,B2,1
+Station Cleaning,15 STREET (PROSPECT PARK) (6AVE),15 Street,2015-03-22,IND,B,6Ave,2015,03,Mar,13,Sun,B1,1
+Station Cleaning,4 AVENUE (6AVE),4 Avenue,2015-03-22,IND,B,6Ave,2015,03,Mar,13,Sun,B1,1
+Station Cleaning,7 AVENUE (BKLYN) (6AVE),7 Avenue,2015-03-22,IND,B,6Ave,2015,03,Mar,13,Sun,B1.4,2
+Station Cleaning,BERGEN STREET (6AVE),Bergen Street,2015-03-22,IND,B,6Ave,2015,03,Mar,13,Sun,b1,1
+Station Cleaning,CHURCH AVENUE (6AVE),Church Avenue,2015-03-22,IND,B,6Ave,2015,03,Mar,13,Sun,B4,1
+Station Cleaning,JAY STREET (FUL),Jay Street,2015-03-22,IND,B,Ful,2015,03,Mar,13,Sun,b2,1
+Station Cleaning,SMITH 9 STREETS (6AVE),Smith 9 Streets,2015-03-22,IND,B,6Ave,2015,03,Mar,13,Sun,B1,1
+Station Cleaning,18 AVENUE (SBEA),18 Avenue,2015-03-24,BMT,E,Seab,2015,03,Mar,13,Tue,"E1,2",2
+Station Cleaning,20 AVENUE (SBEA),20 Avenue,2015-03-24,BMT,E,Seab,2015,03,Mar,13,Tue,"E1,2",0
+Station Cleaning,86 STREET (SBEA),86 Street,2015-03-24,BMT,E,Seab,2015,03,Mar,13,Tue,"E1,2",2
+Station Cleaning,AVENUE U (SBEA),Avenue U,2015-03-24,BMT,E,Seab,2015,03,Mar,13,Tue,"E1,2",2
+Station Cleaning,BAY PARKWAY (SBEA),22 Av-Bay Pky,2015-03-24,BMT,E,Seab,2015,03,Mar,13,Tue,"E1,2",2
+Station Cleaning,FORT HAMILTON AVENUE (SBEA),Fort Hamilton Parkway,2015-03-24,BMT,E,Seab,2015,03,Mar,13,Tue,"E1,2",2
+Station Cleaning,KINGS HIGHWAY (SBEA),Kings Highway,2015-03-24,BMT,E,Seab,2015,03,Mar,13,Tue,"E1,2",2
+Station Cleaning,NEW UTRECHT AVENUE (SBEA),New Utrecht Avenue,2015-03-24,BMT,E,Seab,2015,03,Mar,13,Tue,"E1,2",2
+Station Cleaning,145 STREET (7BWY),145 Street,2015-03-26,IRT,BB,7Bwy,2015,03,Mar,13,Thu,BB1,1
+Station Cleaning,157 STREET (7BWY),157 Street,2015-03-26,IRT,BB,7Bwy,2015,03,Mar,13,Thu,BB1,1
+Station Cleaning,168 STREET (7BWY),168 Street,2015-03-26,IRT,BB,7Bwy,2015,03,Mar,13,Thu,"BB1,4",2
+Station Cleaning,181 STREET (7BWY),181 Street,2015-03-26,IRT,BB,7Bwy,2015,03,Mar,13,Thu,"BB1,4",2
+Station Cleaning,191 STREET (7BWY),191 Street,2015-03-26,IRT,BB,7Bwy,2015,03,Mar,13,Thu,"BB1,4",2
+Station Cleaning,DYCKMAN STREET (7BWY),Dyckman Street,2015-03-26,IRT,BB,7Bwy,2015,03,Mar,13,Thu,"BB1,4",2
+Station Cleaning,14 STREET (7BWY),14 Street,2015-03-27,IRT,V,7Bwy,2015,03,Mar,13,Fri,V4,1
+Station Cleaning,23 STREET (7BWY),23 Street,2015-03-27,IRT,V,7Bwy,2015,03,Mar,13,Fri,V4,1
+Station Cleaning,34 STREET PENN STATION (7BWY),34 Street Penn Station,2015-03-27,IRT,MM,7Bwy,2015,03,Mar,13,Fri,V4,1
+Station Cleaning,42 STREET/TIMES SQUARE (7BWY),42 Street/Times Square,2015-03-27,IRT,MM,7Bwy,2015,03,Mar,13,Fri,V4,1
+Station Cleaning,CHAMBERS STREET (7BWY),Chambers Street,2015-03-27,IRT,V,7Bwy,2015,03,Mar,13,Fri,V4,1
+Station Cleaning,ATLANTIC AVENUE (EPKY),Atlantic Avenue,2015-03-28,IRT,E,Epky,2015,03,Mar,13,Sat,"E2,3",2
+Station Cleaning,BOROUGH HALL (CLARK),Borough Hall,2015-03-28,IRT,K,Clark,2015,03,Mar,13,Sat,K3,1
+Station Cleaning,CLARK STREET (CLARK),Clark Street,2015-03-28,IRT,K,Clark,2015,03,Mar,13,Sat,K3,1
+Station Cleaning,FRANKLIN AVENUE (EPKY),Franklin Avenue,2015-03-28,IRT,E,Epky,2015,03,Mar,13,Sat,"E2,3,4",3
+Station Cleaning,GRAND ARMY PLAZA (EPKY),Grand Army Plaza,2015-03-28,IRT,E,Epky,2015,03,Mar,13,Sat,E4,1
+Station Cleaning,HOYT STREET (EPKY),Hoyt Street,2015-03-28,IRT,E,Epky,2015,03,Mar,13,Sat,"E1,4",2
+Station Cleaning,KINGSTON AVENUE (EPKY),Kingston Avenue,2015-03-28,IRT,E,Epky,2015,03,Mar,13,Sat,E4,1
+Station Cleaning,NEVINS STREET (EPKY),Nevins Street,2015-03-28,IRT,E,Epky,2015,03,Mar,13,Sat,E4,1
+Station Cleaning,NOSTRAND AVENUE (EPKY),Nostrand Avenue,2015-03-28,IRT,E,Epky,2015,03,Mar,13,Sat,E4,1
+Station Cleaning,UTICA AVENUE-CROWN HEIGHTS (EPKY),Utica Avenue-Crown Heights,2015-03-28,IRT,E,Epky,2015,03,Mar,13,Sat,"E2,3,4",3
+Station Cleaning,110 STREET-CENTRAL PARK NORTH (LWP),110 Street-Central Park North,2015-03-29,IRT,F,LWP,2015,03,Mar,14,Sun,"F2,3",2
+Station Cleaning,116 STREET (LWP),116 Street,2015-03-29,IRT,F,LWP,2015,03,Mar,14,Sun,"F2,3",2
+Station Cleaning,125 STREET (LWP),125 Street,2015-03-29,IRT,F,LWP,2015,03,Mar,14,Sun,"F2,3",2
+Station Cleaning,135 STREET (LWP),135 Street,2015-03-29,IRT,F,LWP,2015,03,Mar,14,Sun,"F2,3",2
+Station Cleaning,149 STREET (3 AVENUE) (LWP),149 Street-3rd Ave,2015-03-29,IRT,F,LWP,2015,03,Mar,14,Sun,"F2,3",2
+Station Cleaning,149 STREET GRAND CONC LL (LWP),149 street-Grand Conc LL,2015-03-29,IRT,F,LWP,2015,03,Mar,14,Sun,"F2,3",2
+Station Cleaning,67 AVENUE (QNS),67 Avenue,2015-03-30,IND,D,Qns,2015,03,Mar,14,Mon,D1,1
+Station Cleaning,71 CONTINENTAL AVE (FOREST HILLS) (QNS),71 Continental Ave,2015-03-30,IND,D,Qns,2015,03,Mar,14,Mon,"D3,4",2
+Station Cleaning,ELMHURST AVENUE (QNS),Elmhurst Avenue,2015-03-30,IND,D,Qns,2015,03,Mar,14,Mon,D1,1
+Station Cleaning,GRAND AVENUE/NEWTOWN (QNS),Grand Avenue/Newtown,2015-03-30,IND,D,Qns,2015,03,Mar,14,Mon,D1,1
+Station Cleaning,JACKSON HEIGHTS-ROOSEVELT AVE (QNS),Jackson Heights-Roosevelt Ave,2015-03-30,IND,D,Qns,2015,03,Mar,14,Mon,D4,1
+Station Cleaning,QUEENS PLAZA (QNS),Queens Plaza,2015-03-30,IND,D,Qns,2015,03,Mar,14,Mon,D4,1
+Station Cleaning,WOODHAVEN BLVD. (QUEENS MALL) (QNS),Woodhaven Blvd.,2015-03-30,IND,D,Qns,2015,03,Mar,14,Mon,D1,1
+Station Cleaning,14 STREET (8AVE),14 Street,2015-03-31,IND,A,8Ave,2015,03,Mar,14,Tue,A3,1
+Station Cleaning,34 STREET (PENN STATION) (8AVE),34 Street,2015-03-31,IND,A,8Ave,2015,03,Mar,14,Tue,A3,1
+Station Cleaning,42 STREET (8AVE),42 Street,2015-03-31,IND,A,8Ave,2015,03,Mar,14,Tue,A3,1
+Station Cleaning,59 STREET-COLUMBUS CIRCLE (8AVE),59 Street-Columbus Circle,2015-03-31,IND,A,8Ave,2015,03,Mar,14,Tue,"A3,4",2
+Station Cleaning,CANAL STREET (8AVE),Canal St at Church St.,2015-03-31,IND,A,8Ave,2015,03,Mar,14,Tue,A3,1
+Station Cleaning,CHAMBERS STREET (8AVE),Chambers St at Church,2015-03-31,IND,A,8Ave,2015,03,Mar,14,Tue,A3,1
+Station Cleaning,WEST 4 STREET /WASHINGTON SQ. (8AVE),West 4 street /Washington Wq.,2015-03-31,IND,A,8Ave,2015,03,Mar,14,Tue,A3,1
+Station Cleaning,14 STREET/UNION SQ  (BWY),14 Street/Union Sq,2015-01-15,BMT,A,Bwy,2015,01,Jan,3,Thu,"A3,4",2
+Station Cleaning,34 STREET/HERALD SQ (BWY),34 Street/Herald Sq,2015-01-15,BMT,A,Bwy,2015,01,Jan,3,Thu,"A3,4",2
+Station Cleaning,42 STREET/TIMES SQUARE (BWY),42 Street/Times Square,2015-01-15,BMT,A,Bwy,2015,01,Jan,3,Thu,"A3,4",2
+Station Cleaning,57 STREET (BWY),57 St / 6th Ave,2015-01-15,BMT,A,Bwy,2015,01,Jan,3,Thu,A1,1
+Station Cleaning,CANAL STREET (BWY) U.L.,Canal St at Brdwy (Upper),2015-01-15,BMT,A,Bwy,2015,01,Jan,3,Thu,B1,1
+Station Cleaning,CITY HALL (BWY),City Hall,2015-01-15,BMT,B,Bwy,2015,01,Jan,3,Thu,B1,1
+Station Cleaning,CORTLANDT STREET (BWY),Cortlandt Street,2015-01-15,BMT,A,Bwy,2015,01,Jan,3,Thu,B1,1
+Station Cleaning,RECTOR STREET (BWY),Rector Street,2015-01-15,BMT,B,Bwy,2015,01,Jan,3,Thu,"B1,2",2
+Station Cleaning,WHITEHALL STREET (BWY),Whitehall Street,2015-01-15,BMT,B,Bwy,2015,01,Jan,3,Thu,B3/4,1
+Station Cleaning,18 AVENUE (SBEA),18 Avenue,2015-01-20,BMT,E,Seab,2015,01,Jan,4,Tue,"E1,2",2
+Station Cleaning,20 AVENUE (SBEA),20 Avenue,2015-01-20,BMT,E,Seab,2015,01,Jan,4,Tue,"E1,2",2
+Station Cleaning,8 AVENUE (SBEA),8 Avenue,2015-01-20,BMT,E,Seab,2015,01,Jan,4,Tue,"E1,2",2
+Station Cleaning,86 STREET (SBEA),86 Street,2015-01-20,BMT,E,Seab,2015,01,Jan,4,Tue,"E1,2",2
+Station Cleaning,AVENUE U (SBEA),Avenue U,2015-01-20,BMT,E,Seab,2015,01,Jan,4,Tue,"E1,2",2
+Station Cleaning,BAY PARKWAY (SBEA),22 Av-Bay Pky,2015-01-20,BMT,E,Seab,2015,01,Jan,4,Tue,"E1,2",2
+Station Cleaning,FORT HAMILTON AVENUE (SBEA),Fort Hamilton Parkway,2015-01-20,BMT,E,Seab,2015,01,Jan,4,Tue,"E1,2",2
+Station Cleaning,KINGS HIGHWAY (SBEA),Kings Highway,2015-01-20,BMT,E,Seab,2015,01,Jan,4,Tue,"E1,2",2
+Station Cleaning,NEW UTRECHT AVENUE (SBEA),New Utrecht Avenue,2015-01-20,BMT,E,Seab,2015,01,Jan,4,Tue,"E1,2",2
+Station Cleaning,125 STREET (8AVE),125 Street,2015-01-22,IND,A,8Ave,2015,01,Jan,4,Thu,A4,1
+Station Cleaning,145 STREET (8AVE),145 Street,2015-01-22,IND,A,8Ave,2015,01,Jan,4,Thu,A4,1
+Station Cleaning,168 STREET-WASHINGTON HTS (8AVE),168 Street-Washington Hts,2015-01-22,IND,A,8Ave,2015,01,Jan,4,Thu,A4,1
+Station Cleaning,15 STREET (PROSPECT PARK) (6AVE),15 Street,2015-01-26,IND,B,6Ave,2015,01,Jan,5,Mon,"B1,2",2
+Station Cleaning,4 AVENUE (6AVE),4 Avenue,2015-01-26,IND,B,6Ave,2015,01,Jan,5,Mon,B1,1
+Station Cleaning,7 AVENUE (BKLYN) (6AVE),7 Avenue,2015-01-26,IND,B,6Ave,2015,01,Jan,5,Mon,B1,1
+Station Cleaning,BERGEN STREET (6AVE),Bergen Street,2015-01-26,IND,B,6Ave,2015,01,Jan,5,Mon,"B1,2",2
+Station Cleaning,CARROLL STREET (6AVE),Carroll Street,2015-01-26,IND,B,6Ave,2015,01,Jan,5,Mon,B2,1
+Station Cleaning,CHURCH AVENUE (6AVE),Church Avenue,2015-01-26,IND,B,6Ave,2015,01,Jan,5,Mon,"B2,4",2
+Station Cleaning,FORT HAMILTON PARKWAY (6AVE),Fort Hamilton Parkway,2015-01-26,IND,B,6Ave,2015,01,Jan,5,Mon,B2,1
+Station Cleaning,JAY STREET (FUL),Jay Street,2015-01-26,IND,B,Ful,2015,01,Jan,5,Mon,"B1,2",2
+Station Cleaning,SMITH 9 STREETS (6AVE),Smith 9 Streets,2015-01-26,IND,B,6Ave,2015,01,Jan,5,Mon,B2,1
+Station Cleaning,15 STREET (PROSPECT PARK) (6AVE),15 Street,2015-01-29,IND,B,6Ave,2015,01,Jan,5,Thu,"B1,2",2
+Station Cleaning,7 AVENUE (BKLYN) (6AVE),7 Avenue,2015-01-29,IND,B,6Ave,2015,01,Jan,5,Thu,"B1,2,3,4",4
+Station Cleaning,9 STREET (4AVE),9 Street,2015-01-29,BMT,F,4Ave,2015,01,Jan,5,Thu,B1,1
+Station Cleaning,CHURCH AVENUE (6AVE),Church Avenue,2015-01-29,IND,B,6Ave,2015,01,Jan,5,Thu,"B1,2,3,4",4
+Station Cleaning,FORT HAMILTON PARKWAY (6AVE),Fort Hamilton Parkway,2015-01-29,IND,B,6Ave,2015,01,Jan,5,Thu,B2,1
+Station Cleaning,BROADWAY JCT. EAST NEW YORK (FUL),Broadway Jct East NY,2015-01-30,IND,A,Ful,2015,01,Jan,5,Fri,A2,1
+Station Cleaning,CLINTON-WASHINGTON (FUL),Clinton-Washington,2015-01-30,IND,A,Ful,2015,01,Jan,5,Fri,A2,1
+Station Cleaning,EUCLID AVENUE (FUL),Euclid Avenue,2015-01-30,IND,A,Ful,2015,01,Jan,5,Fri,A2,1
+Station Cleaning,HOYT SCHERMERHORN STREETS (FUL),Hoyt Schermerhorn St,2015-01-30,IND,A,Ful,2015,01,Jan,5,Fri,A3,1
+Station Cleaning,JAY STREET (8AV),Jay Street,2015-01-30,IND,A,8Ave,2015,01,Jan,5,Fri,A3,1
+Station Cleaning,KINGSTON THROOP AVENUES (FUL),Kingston Throop Avenues,2015-01-30,IND,A,Ful,2015,01,Jan,5,Fri,A2,1
+Station Cleaning,LIBERTY AVENUE (FUL),Liberty Avenue,2015-01-30,IND,A,Ful,2015,01,Jan,5,Fri,A2,1
+Station Cleaning,ROCKAWAY AVENUE (FUL),Rockaway Avenue,2015-01-30,IND,A,Ful,2015,01,Jan,5,Fri,A2,1
+Station Cleaning,SHEPHERD AVENUE (FUL),Shepherd Avenue,2015-01-30,IND,A,Ful,2015,01,Jan,5,Fri,A1,1
+Station Cleaning,VAN SICLEN AVENUE (FUL),Van Siclen Avenue,2015-01-30,IND,A,Ful,2015,01,Jan,5,Fri,A2,1
+Station Cleaning,BOWERY STREET (JAM),Bowery Street,2015-02-05,BMT,J,Jam,2015,02,Feb,6,Thu,"J2,4",2
+Station Cleaning,BROAD STREET (JAM),Broad Street,2015-02-05,BMT,J,Jam,2015,02,Feb,6,Thu,"R1,2",2
+Station Cleaning,BROADWAY JCT. EAST NEW YORK (FUL),Broadway Jct East NY,2015-02-05,IND,A,Ful,2015,02,Feb,6,Thu,A1,1
+Station Cleaning,CANAL STREET (JAM),Canal St at Center St.,2015-02-05,BMT,J,Jam,2015,02,Feb,6,Thu,"J2,4",2
+Station Cleaning,CHAMBERS STREET (JAM),Chambers St at Centre St.,2015-02-05,BMT,J,Jam,2015,02,Feb,6,Thu,"J1,2,3,4",4
+Station Cleaning,ESSEX STREET (JAM),Essex Street,2015-02-05,BMT,J,Jam,2015,02,Feb,6,Thu,"J1,4",2
+Station Cleaning,FULTON STREET (JAM),Fulton Street,2015-02-05,BMT,J,Jam,2015,02,Feb,6,Thu,"R1,2",2
+Station Cleaning,145 STREET (CONC),145 Street,2015-02-06,IND,C,Conc,2015,02,Feb,6,Fri,C3/4,1
+Station Cleaning,182 STREET (CONC),182 Street,2015-02-06,IND,C,Conc,2015,02,Feb,6,Fri,C1,1
+Station Cleaning,205 STREET (NORWOOD)(CONC),205 Street,2015-02-06,IND,C,Conc,2015,02,Feb,6,Fri,"C1,C2",2
+Station Cleaning,BEDFORD PARK BLVD. (CONC),Bedford Park Blvd.,2015-02-06,IND,C,Conc,2015,02,Feb,6,Fri,"C1,C2",2
+Station Cleaning,FORDHAM ROAD (CONC),Fordham Road,2015-02-06,IND,C,Conc,2015,02,Feb,6,Fri,"C1, C3/4",2
+Station Cleaning,KINGSBRIDGE ROAD (CONC),Kingsbridge Road,2015-02-06,IND,C,Conc,2015,02,Feb,6,Fri,"C1,C3/4",2
+Station Cleaning,TREMONT AVENUE (CONC),Tremont Avenue,2015-02-06,IND,C,Conc,2015,02,Feb,6,Fri,"C1, C3/4",2
+Station Cleaning,7 AVENUE (BKLYN) (6AVE),7 Avenue,2015-02-07,IND,B,6Ave,2015,02,Feb,6,Sat,A4,1
+Station Cleaning,CANAL STREET (H TRACKS) (BWY) L.L.,Canal St at Brdwy (Lower),2015-02-07,BMT,H,Bwy,2015,02,Feb,6,Sat,H1,1
+Station Cleaning,DEKALB AVENUE (4AVE),Dekalb Avenue,2015-02-07,BMT,F,4Ave,2015,02,Feb,6,Sat,A4,1
+Station Cleaning,PACIFIC STREET (4AVE),Pacific Street,2015-02-07,BMT,F,4Ave,2015,02,Feb,6,Sat,A4,1
+Station Cleaning,125 STREET (8AVE),125 Street,2015-02-08,IND,A,8Ave,2015,02,Feb,7,Sun,A2,1
+Station Cleaning,145 STREET (8AVE),145 Street,2015-02-08,IND,A,8Ave,2015,02,Feb,7,Sun,A4,1
+Station Cleaning,14 STREET/UNION SQ  (BWY),14 Street/Union Sq,2015-02-09,BMT,A,Bwy,2015,02,Feb,7,Mon,"A3,4",2
+Station Cleaning,34 STREET/HERALD SQ (BWY),34 Street/Herald Sq,2015-02-09,BMT,A,Bwy,2015,02,Feb,7,Mon,"A3,4",2
+Station Cleaning,42 STREET/TIMES SQUARE (BWY),42 Street/Times Square,2015-02-09,BMT,A,Bwy,2015,02,Feb,7,Mon,"A1,4",2
+Station Cleaning,49 STREET (BWY),49 Street,2015-02-09,BMT,A,Bwy,2015,02,Feb,7,Mon,A1,1
+Station Cleaning,5 AVENUE (AST),5 Av - 59 St,2015-02-09,BMT,G,Ast,2015,02,Feb,7,Mon,"G1,2",2
+Station Cleaning,57 STREET (BWY),57 St / 6th Ave,2015-02-09,BMT,A,Bwy,2015,02,Feb,7,Mon,"A1,2",2
+Station Cleaning,CANAL STREET (BWY) U.L.,Canal St at Brdwy (Upper),2015-02-09,BMT,A,Bwy,2015,02,Feb,7,Mon,"B1,2",2
+Station Cleaning,CITY HALL (BWY),City Hall,2015-02-09,BMT,B,Bwy,2015,02,Feb,7,Mon,"B1,2",2
+Station Cleaning,CORTLANDT STREET (BWY),Cortlandt Street,2015-02-09,BMT,A,Bwy,2015,02,Feb,7,Mon,"B1,2",2
+Station Cleaning,LEXINGTON AVENUE (AST),59 -Lexington,2015-02-09,BMT,G,Ast,2015,02,Feb,7,Mon,G2,1
+Station Cleaning,RECTOR STREET (BWY),Rector Street,2015-02-09,BMT,B,Bwy,2015,02,Feb,7,Mon,"B1,2",2
+Station Cleaning,WHITEHALL STREET (BWY),Whitehall Street,2015-02-09,BMT,B,Bwy,2015,02,Feb,7,Mon,"B2,B3/4",2
+Station Cleaning,14 STREET/UNION SQ  (BWY),14 Street/Union Sq,2015-02-10,BMT,A,Bwy,2015,02,Feb,7,Tue,"A2,3",2
+Station Cleaning,23 STREET (BWY),23 Street,2015-02-10,BMT,A,Bwy,2015,02,Feb,7,Tue,A2,1
+Station Cleaning,28 STREET (BWY),28 Street,2015-02-10,BMT,A,Bwy,2015,02,Feb,7,Tue,A2,1
+Station Cleaning,34 STREET/HERALD SQ (BWY),34 Street/Herald Sq,2015-02-10,BMT,A,Bwy,2015,02,Feb,7,Tue,"A2,3",2
+Station Cleaning,42 STREET/TIMES SQUARE (BWY),42 Street/Times Square,2015-02-10,BMT,A,Bwy,2015,02,Feb,7,Tue,"A2,3",2
+Station Cleaning,57 STREET (BWY),57 St / 6th Ave,2015-02-10,BMT,A,Bwy,2015,02,Feb,7,Tue,A4,1
+Station Cleaning,8 STREET (NYU) (BWY),8 Street,2015-02-10,BMT,A,Bwy,2015,02,Feb,7,Tue,A2,1
+Station Cleaning,CANAL STREET (BWY) U.L.,Canal St at Brdwy (Upper),2015-02-10,BMT,A,Bwy,2015,02,Feb,7,Tue,A1,1
+Station Cleaning,PRINCE STREET (BWY),Prince Street,2015-02-10,BMT,A,Bwy,2015,02,Feb,7,Tue,A2,1
+Station Cleaning,25 STREET (4AVE),25 Street,2015-02-11,BMT,F,4Ave,2015,02,Feb,7,Wed,F2,1
+Station Cleaning,36 STREET (4AVE),36 Street,2015-02-11,BMT,F,4Ave,2015,02,Feb,7,Wed,"F1,2",2
+Station Cleaning,45 STREET (4AVE),45 Street,2015-02-11,BMT,F,4Ave,2015,02,Feb,7,Wed,F2,1
+Station Cleaning,53 STREET (4AVE),53 Street,2015-02-11,BMT,F,4Ave,2015,02,Feb,7,Wed,F2,1
+Station Cleaning,59 STREET (4AVE),59 Street,2015-02-11,BMT,F,4Ave,2015,02,Feb,7,Wed,"F1,2",2
+Station Cleaning,77 STREET (4AVE),77 Street,2015-02-11,BMT,F,4Ave,2015,02,Feb,7,Wed,"F1,2",2
+Station Cleaning,86 STREET (4AVE),86 Street,2015-02-11,BMT,F,4Ave,2015,02,Feb,7,Wed,"F1,2",2
+Station Cleaning,9 STREET (4AVE),9 Street,2015-02-11,BMT,F,4Ave,2015,02,Feb,7,Wed,"F1,2",2
+Station Cleaning,95 STREET (BAY RIDGE) (4AVE),95-Bay Ridge,2015-02-11,BMT,F,4Ave,2015,02,Feb,7,Wed,F2,1
+Station Cleaning,BAY RIDGE AVENUE (4AVE),Bay Ridge Avenue,2015-02-11,BMT,F,4Ave,2015,02,Feb,7,Wed,"F1,2",2
+Station Cleaning,PACIFIC STREET (4AVE),Pacific Street,2015-02-11,BMT,F,4Ave,2015,02,Feb,7,Wed,"F1,2,3",3
+Station Cleaning,UNION STREET (4AVE),Union Street,2015-02-11,BMT,F,4Ave,2015,02,Feb,7,Wed,"F1,2",2
+Station Cleaning,21 STREET (VAN ALST) (XTWN),21 Street (Van Alst),2015-02-13,IND,E,Xtwn,2015,02,Feb,7,Fri,E1,1
+Station Cleaning,BEDFORD-NOSTRAND AVE (XTWN),Bedford-Nostrand Ave,2015-02-13,IND,E,Xtwn,2015,02,Feb,7,Fri,"E1,2",2
+Station Cleaning,BROADWAY (XTWN),Broadway,2015-02-13,IND,E,Xtwn,2015,02,Feb,7,Fri,E1,1
+Station Cleaning,CLASSON AVENUE (XTWN),Classon Avenue,2015-02-13,IND,E,Xtwn,2015,02,Feb,7,Fri,E2,1
+Station Cleaning,CLINTON-WASHINGTON AVE (XTWN),Clinton-Washington,2015-02-13,IND,E,Xtwn,2015,02,Feb,7,Fri,E2,1
+Station Cleaning,COURT SQUARE (XTWN),Court Square,2015-02-13,IND,E,Xtwn,2015,02,Feb,7,Fri,E1,1
+Station Cleaning,FULTON STREET (XTWN),Fulton Street,2015-02-13,IND,E,Xtwn,2015,02,Feb,7,Fri,E2,1
+Station Cleaning,HOYT SCHERMERHORN ST (XTWN),Hoyt Schermerhorn st,2015-02-13,IND,EX,Xtwn,2015,02,Feb,7,Fri,E2,1
+Station Cleaning,METROPOLITAN AVENUE (XTWN),Metropolitan Avenue,2015-02-13,IND,E,Xtwn,2015,02,Feb,7,Fri,E1,1
+Station Cleaning,MYRTLE-WILLOUGHBY AVENUES (XTWN),Myrtle-Willoughby Avenues,2015-02-13,IND,E,Xtwn,2015,02,Feb,7,Fri,"E1,2",2
+Station Cleaning,NASSAU AVENUE (XTWN),Nassau Avenue,2015-02-13,IND,E,Xtwn,2015,02,Feb,7,Fri,"E1,2",2
+Station Cleaning,15 STREET (PROSPECT PARK) (6AVE),15 Street,2015-02-14,IND,B,6Ave,2015,02,Feb,7,Sat,"B1,2",2
+Station Cleaning,4 AVENUE (6AVE),4 Avenue,2015-02-14,IND,B,6Ave,2015,02,Feb,7,Sat,B2,1
+Station Cleaning,7 AVENUE (BKLYN) (6AVE),7 Avenue,2015-02-14,IND,B,6Ave,2015,02,Feb,7,Sat,B2,1
+Station Cleaning,BERGEN STREET (6AVE),Bergen Street,2015-02-14,IND,B,6Ave,2015,02,Feb,7,Sat,B1,1
+Station Cleaning,CARROLL STREET (6AVE),Carroll Street,2015-02-14,IND,B,6Ave,2015,02,Feb,7,Sat,B1,1
+Station Cleaning,CHURCH AVENUE (6AVE),Church Avenue,2015-02-14,IND,B,6Ave,2015,02,Feb,7,Sat,"B1,2",2
+Station Cleaning,FORT HAMILTON PARKWAY (6AVE),Fort Hamilton Parkway,2015-02-14,IND,B,6Ave,2015,02,Feb,7,Sat,B2,1
+Station Cleaning,JAY STREET (FUL),Jay Street,2015-02-14,IND,B,Ful,2015,02,Feb,7,Sat,"B1,2",2
+Station Cleaning,36 STREET (4AVE),36 Street,2015-02-21,BMT,F,4Ave,2015,02,Feb,8,Sat,F4,1
+Station Cleaning,59 STREET (4AVE),59 Street,2015-02-21,BMT,F,4Ave,2015,02,Feb,8,Sat,F4,1
+Station Cleaning,9 STREET (4AVE),9 Street,2015-02-21,BMT,F,4Ave,2015,02,Feb,8,Sat,F1,1
+Station Cleaning,COURT STREET (BWY),Court Street,2015-02-21,BMT,B,Bwy,2015,02,Feb,8,Sat,"B1,2",2
+Station Cleaning,DEKALB AVENUE (4AVE),Dekalb Avenue,2015-02-21,BMT,F,4Ave,2015,02,Feb,8,Sat,"B1,2",2
+Station Cleaning,LAWRENCE STREET (METROTECH) (BWY),Lawrence Street,2015-02-21,BMT,B,Bwy,2015,02,Feb,8,Sat,"B1,2",2
+Station Cleaning,PACIFIC STREET (4AVE),Pacific Street,2015-02-21,BMT,F,4Ave,2015,02,Feb,8,Sat,"F1,4",2
+Station Cleaning,UNION STREET (4AVE),Union Street,2015-02-21,BMT,F,4Ave,2015,02,Feb,8,Sat,F1,1
+Station Cleaning,WHITEHALL STREET (BWY),Whitehall Street,2015-02-21,BMT,B,Bwy,2015,02,Feb,8,Sat,"B1,2",2
+Station Cleaning,25 STREET (4AVE),25 Street,2015-02-22,BMT,F,4Ave,2015,02,Feb,9,Sun,F1,1
+Station Cleaning,36 STREET (4AVE),36 Street,2015-02-22,BMT,F,4Ave,2015,02,Feb,9,Sun,"F1,4",2
+Station Cleaning,45 STREET (4AVE),45 Street,2015-02-22,BMT,F,4Ave,2015,02,Feb,9,Sun,F1,1
+Station Cleaning,53 STREET (4AVE),53 Street,2015-02-22,BMT,F,4Ave,2015,02,Feb,9,Sun,F1,1
+Station Cleaning,59 STREET (4AVE),59 Street,2015-02-22,BMT,F,4Ave,2015,02,Feb,9,Sun,"F1,4",2
+Station Cleaning,77 STREET (4AVE),77 Street,2015-02-22,BMT,F,4Ave,2015,02,Feb,9,Sun,F1,1
+Station Cleaning,86 STREET (4AVE),86 Street,2015-02-22,BMT,F,4Ave,2015,02,Feb,9,Sun,F1,1
+Station Cleaning,9 STREET (4AVE),9 Street,2015-02-22,BMT,F,4Ave,2015,02,Feb,9,Sun,F1,1
+Station Cleaning,95 STREET (BAY RIDGE) (4AVE),95-Bay Ridge,2015-02-22,BMT,F,4Ave,2015,02,Feb,9,Sun,F1,1
+Station Cleaning,BAY RIDGE AVENUE (4AVE),Bay Ridge Avenue,2015-02-22,BMT,F,4Ave,2015,02,Feb,9,Sun,F1,1
+Station Cleaning,COURT STREET (BWY),Court Street,2015-02-22,BMT,B,Bwy,2015,02,Feb,9,Sun,"B1,2",2
+Station Cleaning,DEKALB AVENUE (4AVE),Dekalb Avenue,2015-02-22,BMT,F,4Ave,2015,02,Feb,9,Sun,"B1,2",2
+Station Cleaning,LAWRENCE STREET (METROTECH) (BWY),Lawrence Street,2015-02-22,BMT,B,Bwy,2015,02,Feb,9,Sun,"B1,2",2
+Station Cleaning,PACIFIC STREET (4AVE),Pacific Street,2015-02-22,BMT,F,4Ave,2015,02,Feb,9,Sun,"F1,4",2
+Station Cleaning,PROSPECT AVENUE (4AVE),Prospect Avenue,2015-02-22,BMT,F,4Ave,2015,02,Feb,9,Sun,F1,1
+Station Cleaning,UNION STREET (4AVE),Union Street,2015-02-22,BMT,F,4Ave,2015,02,Feb,9,Sun,F1,1
+Station Cleaning,WHITEHALL STREET (BWY),Whitehall Street,2015-02-22,BMT,B,Bwy,2015,02,Feb,9,Sun,B3/4,1
+Station Cleaning,36 STREET (4AVE),36 Street,2015-02-23,BMT,F,4Ave,2015,02,Feb,9,Mon,"F1,2",2
+Station Cleaning,45 STREET (4AVE),45 Street,2015-02-23,BMT,F,4Ave,2015,02,Feb,9,Mon,"F1,2",2
+Station Cleaning,53 STREET (4AVE),53 Street,2015-02-23,BMT,F,4Ave,2015,02,Feb,9,Mon,"F1,2",2
+Station Cleaning,59 STREET (4AVE),59 Street,2015-02-23,BMT,F,4Ave,2015,02,Feb,9,Mon,"F1,2,4",3
+Station Cleaning,DEKALB AVENUE (4AVE),Dekalb Avenue,2015-02-23,BMT,F,4Ave,2015,02,Feb,9,Mon,"B1,2",2
+Station Cleaning,LAWRENCE STREET (METROTECH) (BWY),Lawrence Street,2015-02-23,BMT,B,Bwy,2015,02,Feb,9,Mon,B2,1
+Station Cleaning,36 STREET (4AVE),36 Street,2015-02-25,BMT,F,4Ave,2015,02,Feb,9,Wed,F2,1
+Station Cleaning,45 STREET (4AVE),45 Street,2015-02-25,BMT,F,4Ave,2015,02,Feb,9,Wed,F2,1
+Station Cleaning,53 STREET (4AVE),53 Street,2015-02-25,BMT,F,4Ave,2015,02,Feb,9,Wed,F2,1
+Station Cleaning,59 STREET (4AVE),59 Street,2015-02-25,BMT,F,4Ave,2015,02,Feb,9,Wed,F2,1
+Station Cleaning,COURT STREET (BWY),Court Street,2015-02-25,BMT,B,Bwy,2015,02,Feb,9,Wed,"B1,2",2
+Station Cleaning,DEKALB AVENUE (4AVE),Dekalb Avenue,2015-02-25,BMT,F,4Ave,2015,02,Feb,9,Wed,"B1,2",2
+Station Cleaning,LAWRENCE STREET (METROTECH) (BWY),Lawrence Street,2015-02-25,BMT,B,Bwy,2015,02,Feb,9,Wed,"B1,2",2
+Station Cleaning,PACIFIC STREET (4AVE),Pacific Street,2015-02-25,BMT,F,4Ave,2015,02,Feb,9,Wed,F4,1
+Station Cleaning,WHITEHALL STREET (BWY),Whitehall Street,2015-02-25,BMT,B,Bwy,2015,02,Feb,9,Wed,3/4,1
+Station Cleaning,15 STREET (PROSPECT PARK) (6AVE),15 Street,2015-02-26,IND,B,6Ave,2015,02,Feb,9,Thu,B1,1
+Station Cleaning,4 AVENUE (6AVE),4 Avenue,2015-02-26,IND,B,6Ave,2015,02,Feb,9,Thu,B1,1
+Station Cleaning,7 AVENUE (BKLYN) (6AVE),7 Avenue,2015-02-26,IND,B,6Ave,2015,02,Feb,9,Thu,B1,1
+Station Cleaning,BERGEN STREET (6AVE),Bergen Street,2015-02-26,IND,B,6Ave,2015,02,Feb,9,Thu,B1,1
+Station Cleaning,CARROLL STREET (6AVE),Carroll Street,2015-02-26,IND,B,6Ave,2015,02,Feb,9,Thu,B1,1
+Station Cleaning,CHURCH AVENUE (6AVE),Church Avenue,2015-02-26,IND,B,6Ave,2015,02,Feb,9,Thu,B1,1
+Station Cleaning,FORT HAMILTON PARKWAY (6AVE),Fort Hamilton Parkway,2015-02-26,IND,B,6Ave,2015,02,Feb,9,Thu,B1,1
+Station Cleaning,JAY STREET (FUL),Jay Street,2015-02-26,IND,B,Ful,2015,02,Feb,9,Thu,B1,1
+Station Cleaning,SMITH 9 STREETS (6AVE),Smith 9 Streets,2015-02-26,IND,B,6Ave,2015,02,Feb,9,Thu,B1,1
+Station Cleaning,BOWERY STREET (JAM),Bowery Street,2015-02-27,BMT,J,Jam,2015,02,Feb,9,Fri,"J1,2,4",3
+Station Cleaning,BROAD STREET (JAM),Broad Street,2015-02-27,BMT,J,Jam,2015,02,Feb,9,Fri,R1,1
+Station Cleaning,CANAL STREET (JAM),Canal St at Center St.,2015-02-27,BMT,J,Jam,2015,02,Feb,9,Fri,"J2,4",2
+Station Cleaning,CHAMBERS STREET (JAM),Chambers St at Centre St.,2015-02-27,BMT,J,Jam,2015,02,Feb,9,Fri,"J1,2,3,4",4
+Station Cleaning,ESSEX STREET (JAM),Essex Street,2015-02-27,BMT,J,Jam,2015,02,Feb,9,Fri,"J1,2,4",3
+Station Cleaning,FULTON STREET (JAM),Fulton Street,2015-02-27,BMT,J,Jam,2015,02,Feb,9,Fri,"R1,2",2
+Station Cleaning,21 STREET (VAN ALST) (XTWN),21 Street (Van Alst),2015-02-28,IND,E,Xtwn,2015,02,Feb,9,Sat,"E1,2",2
+Station Cleaning,BEDFORD-NOSTRAND AVE (XTWN),Bedford-Nostrand Ave,2015-02-28,IND,E,Xtwn,2015,02,Feb,9,Sat,"E1,2",2
+Station Cleaning,BERGEN STREET (6AVE),Bergen Street,2015-02-28,IND,B,6Ave,2015,02,Feb,9,Sat,B1,1
+Station Cleaning,BROADWAY (XTWN),Broadway,2015-02-28,IND,E,Xtwn,2015,02,Feb,9,Sat,"E1,2",2
+Station Cleaning,CLASSON AVENUE (XTWN),Classon Avenue,2015-02-28,IND,E,Xtwn,2015,02,Feb,9,Sat,"E1,2",2
+Station Cleaning,CLINTON-WASHINGTON AVE (XTWN),Clinton-Washington,2015-02-28,IND,E,Xtwn,2015,02,Feb,9,Sat,E2,1
+Station Cleaning,COURT SQUARE (XTWN),Court Square,2015-02-28,IND,E,Xtwn,2015,02,Feb,9,Sat,E1,1
+Station Cleaning,FLUSHING AVENUE (XTWN),Flushing Avenue,2015-02-28,IND,E,Xtwn,2015,02,Feb,9,Sat,"E1,2",2
+Station Cleaning,FULTON STREET (XTWN),Fulton Street,2015-02-28,IND,E,Xtwn,2015,02,Feb,9,Sat,E2,1
+Station Cleaning,GREENPOINT AVENUE (XTWN),Greenpoint Avenue,2015-02-28,IND,E,Xtwn,2015,02,Feb,9,Sat,"E1,2",2
+Station Cleaning,HOYT SCHERMERHORN ST (XTWN),Hoyt Schermerhorn st,2015-02-28,IND,EX,Xtwn,2015,02,Feb,9,Sat,E2,1
+Station Cleaning,METROPOLITAN AVENUE (XTWN),Metropolitan Avenue,2015-02-28,IND,E,Xtwn,2015,02,Feb,9,Sat,"E1,2",2
+Station Cleaning,MYRTLE-WILLOUGHBY AVENUES (XTWN),Myrtle-Willoughby Avenues,2015-02-28,IND,E,Xtwn,2015,02,Feb,9,Sat,"E1,2",2
+Station Cleaning,NASSAU AVENUE (XTWN),Nassau Avenue,2015-02-28,IND,E,Xtwn,2015,02,Feb,9,Sat,"E1,2",2
+Station Cleaning,145 STREET (CONC),145 Street,2015-03-03,IND,C,Conc,2015,03,Mar,10,Tue,"C1, C3/4",2
+Station Cleaning,155 STREET (CONC),155 Street,2015-03-03,IND,C,Conc,2015,03,Mar,10,Tue,C1,1
+Station Cleaning,161 STREET (CONC),161 Street,2015-03-03,IND,C,Conc,2015,03,Mar,10,Tue,C1,1
+Station Cleaning,167 STREET (CONC),167 Street,2015-03-03,IND,C,Conc,2015,03,Mar,10,Tue,C1,1
+Station Cleaning,170 STREET (CONC),170 Street,2015-03-03,IND,C,Conc,2015,03,Mar,10,Tue,C1,1
+Station Cleaning,174 STREET (CONC),174-175 St,2015-03-03,IND,C,Conc,2015,03,Mar,10,Tue,C1,1
+Station Cleaning,182 STREET (CONC),182 Street,2015-03-03,IND,C,Conc,2015,03,Mar,10,Tue,C1,1
+Station Cleaning,205 STREET (NORWOOD)(CONC),205 Street,2015-03-03,IND,C,Conc,2015,03,Mar,10,Tue,C2,1
+Station Cleaning,BEDFORD PARK BLVD. (CONC),Bedford Park Blvd.,2015-03-03,IND,C,Conc,2015,03,Mar,10,Tue,"C2,C6",2
+Station Cleaning,FORDHAM ROAD (CONC),Fordham Road,2015-03-03,IND,C,Conc,2015,03,Mar,10,Tue,"C1,C3/4",2
+Station Cleaning,KINGSBRIDGE ROAD (CONC),Kingsbridge Road,2015-03-03,IND,C,Conc,2015,03,Mar,10,Tue,C1 C3/4,2
+Station Cleaning,TREMONT AVENUE (CONC),Tremont Avenue,2015-03-03,IND,C,Conc,2015,03,Mar,10,Tue,C3/4,1
+Station Cleaning,14 STREET/UNION SQ  (BWY),14 Street/Union Sq,2015-03-04,BMT,A,Bwy,2015,03,Mar,10,Wed,A3,1
+Station Cleaning,23 STREET (BWY),23 Street,2015-03-04,BMT,A,Bwy,2015,03,Mar,10,Wed,A2,1
+Station Cleaning,34 STREET/HERALD SQ (BWY),34 Street/Herald Sq,2015-03-04,BMT,A,Bwy,2015,03,Mar,10,Wed,A3,1
+Station Cleaning,42 STREET/TIMES SQUARE (BWY),42 Street/Times Square,2015-03-04,BMT,A,Bwy,2015,03,Mar,10,Wed,"A3,A4",2
+Station Cleaning,57 STREET (BWY),57 St / 6th Ave,2015-03-04,BMT,A,Bwy,2015,03,Mar,10,Wed,"A3,A4",2
+Station Cleaning,7 AVENUE (BRT),7 Avenue,2015-03-04,BMT,A,Brt,2015,03,Mar,10,Wed,A3,1
+Station Cleaning,8 STREET (NYU) (BWY),8 Street,2015-03-04,BMT,A,Bwy,2015,03,Mar,10,Wed,A2,1
+Station Cleaning,ATLANTIC AVENUE (BRT),Atlantic Avenue,2015-03-04,BMT,A,Brt,2015,03,Mar,10,Wed,A3,1
+Station Cleaning,CANAL STREET (H TRACKS) (BWY) L.L.,Canal St at Brdwy (Lower),2015-03-04,BMT,H,Bwy,2015,03,Mar,10,Wed,H1,1
+Station Cleaning,DEKALB AVENUE (4AVE),Dekalb Avenue,2015-03-04,BMT,F,4Ave,2015,03,Mar,10,Wed,A3,1
+Station Cleaning,PRINCE STREET (BWY),Prince Street,2015-03-04,BMT,A,Bwy,2015,03,Mar,10,Wed,A2,1
+Station Cleaning,CLINTON-WASHINGTON (FUL),Clinton-Washington,2015-03-05,IND,A,Ful,2015,03,Mar,10,Thu,A1,1
+Station Cleaning,EUCLID AVENUE (FUL),Euclid Avenue,2015-03-05,IND,A,Ful,2015,03,Mar,10,Thu,A3,1
+Station Cleaning,FRANKLIN AVENUE (FUL),Franklin Avenue,2015-03-05,IND,A,Ful,2015,03,Mar,10,Thu,A1,1
+Station Cleaning,HOYT SCHERMERHORN STREETS (FUL),Hoyt Schermerhorn St,2015-03-05,IND,A,Ful,2015,03,Mar,10,Thu,A3,1
+Station Cleaning,JAY STREET (8AV),Jay Street,2015-03-05,IND,A,8Ave,2015,03,Mar,10,Thu,A3,1
+Station Cleaning,KINGSTON THROOP AVENUES (FUL),Kingston Throop Avenues,2015-03-05,IND,A,Ful,2015,03,Mar,10,Thu,A1,1
+Station Cleaning,LAFAYETTE AVENUE (FUL),Lafayette Avenue,2015-03-05,IND,A,Ful,2015,03,Mar,10,Thu,A1,1
+Station Cleaning,NOSTRAND AVENUE (FUL),Nostrand Avenue,2015-03-05,IND,A,Ful,2015,03,Mar,10,Thu,A1,1
+Station Cleaning,UTICA AVENUE (FUL),Utica Avenue,2015-03-05,IND,A,Ful,2015,03,Mar,10,Thu,A1,1
+Station Cleaning,14 STREET (8AVE),14 Street,2015-03-09,IND,A,8Ave,2015,03,Mar,11,Mon,"A3,4",2
+Station Cleaning,34 STREET (PENN STATION) (8AVE),34 Street,2015-03-09,IND,A,8Ave,2015,03,Mar,11,Mon,"A3,4",2
+Station Cleaning,42 STREET (8AVE),42 Street,2015-03-09,IND,A,8Ave,2015,03,Mar,11,Mon,"A3,4",2
+Station Cleaning,59 STREET-COLUMBUS CIRCLE (8AVE),59 Street-Columbus Circle,2015-03-09,IND,A,8Ave,2015,03,Mar,11,Mon,"A3,4",2
+Station Cleaning,BROADWAY NASSAU STREET (8AVE),Broadway Nassau Street,2015-03-09,IND,A,8Ave,2015,03,Mar,11,Mon,"A3,4",2
+Station Cleaning,CANAL STREET (8AVE),Canal St at Church St.,2015-03-09,IND,A,8Ave,2015,03,Mar,11,Mon,"A3,4",2
+Station Cleaning,CHAMBERS STREET (8AVE),Chambers St at Church,2015-03-09,IND,A,8Ave,2015,03,Mar,11,Mon,"A3,4",2
+Station Cleaning,HIGH STREET (8 AVE),High Street,2015-03-09,IND,A,8Ave,2015,03,Mar,11,Mon,"A3,4",2
+Station Cleaning,JAY STREET (8AV),Jay Street,2015-03-09,IND,A,8Ave,2015,03,Mar,11,Mon,"B1,2",2
+Station Cleaning,WEST 4 STREET /WASHINGTON SQ. (8AVE),West 4 street /Washington Wq.,2015-03-09,IND,A,8Ave,2015,03,Mar,11,Mon,"A3,4",2
+Station Cleaning,7 AVENUE (BKLYN) (6AVE),7 Avenue,2015-03-10,IND,B,6Ave,2015,03,Mar,11,Tue,B4,1
+Station Cleaning,BERGEN STREET (6AVE),Bergen Street,2015-03-10,IND,B,6Ave,2015,03,Mar,11,Tue,B1,1
+Station Cleaning,CARROLL STREET (6AVE),Carroll Street,2015-03-10,IND,B,6Ave,2015,03,Mar,11,Tue,B1,1
+Station Cleaning,CHURCH AVENUE (6AVE),Church Avenue,2015-03-10,IND,B,6Ave,2015,03,Mar,11,Tue,"B1,4",2
+Station Cleaning,FORT HAMILTON PARKWAY (6AVE),Fort Hamilton Parkway,2015-03-10,IND,B,6Ave,2015,03,Mar,11,Tue,B1,1
+Station Cleaning,JAY STREET (FUL),Jay Street,2015-03-10,IND,B,Ful,2015,03,Mar,11,Tue,"B1,2",2
+Station Cleaning,CLINTON-WASHINGTON (FUL),Clinton-Washington,2015-03-12,IND,A,Ful,2015,03,Mar,11,Thu,A2,1
+Station Cleaning,EUCLID AVENUE (FUL),Euclid Avenue,2015-03-12,IND,A,Ful,2015,03,Mar,11,Thu,A1,1
+Station Cleaning,FRANKLIN AVENUE (FUL),Franklin Avenue,2015-03-12,IND,A,Ful,2015,03,Mar,11,Thu,A2,1
+Station Cleaning,HOYT SCHERMERHORN STREETS (FUL),Hoyt Schermerhorn St,2015-03-12,IND,A,Ful,2015,03,Mar,11,Thu,A4,1
+Station Cleaning,JAY STREET (FUL),Jay Street,2015-03-12,IND,B,Ful,2015,03,Mar,11,Thu,A4,1
+Station Cleaning,KINGSTON THROOP AVENUES (FUL),Kingston Throop Avenues,2015-03-12,IND,A,Ful,2015,03,Mar,11,Thu,A2,1
+Station Cleaning,LAFAYETTE AVENUE (FUL),Lafayette Avenue,2015-03-12,IND,A,Ful,2015,03,Mar,11,Thu,A2,1
+Station Cleaning,LIBERTY AVENUE (FUL),Liberty Avenue,2015-03-12,IND,A,Ful,2015,03,Mar,11,Thu,A1,1
+Station Cleaning,NOSTRAND AVENUE (FUL),Nostrand Avenue,2015-03-12,IND,A,Ful,2015,03,Mar,11,Thu,A2,0
+Station Cleaning,SHEPHERD AVENUE (FUL),Shepherd Avenue,2015-03-12,IND,A,Ful,2015,03,Mar,11,Thu,A1,1
+Station Cleaning,UTICA AVENUE (FUL),Utica Avenue,2015-03-12,IND,A,Ful,2015,03,Mar,11,Thu,A2,1
+Station Cleaning,VAN SICLEN AVENUE (FUL),Van Siclen Avenue,2015-03-12,IND,A,Ful,2015,03,Mar,11,Thu,A1,1
+Station Cleaning,BOWERY STREET (JAM),Bowery Street,2015-03-13,BMT,J,Jam,2015,03,Mar,11,Fri,"J2,4",2
+Station Cleaning,BROAD STREET (JAM),Broad Street,2015-03-13,BMT,J,Jam,2015,03,Mar,11,Fri,"R1,2",2
+Station Cleaning,CANAL STREET (JAM),Canal St at Center St.,2015-03-13,BMT,J,Jam,2015,03,Mar,11,Fri,"J2,4",2
+Station Cleaning,CHAMBERS STREET (JAM),Chambers St at Centre St.,2015-03-13,BMT,J,Jam,2015,03,Mar,11,Fri,"J1,2,3,4",4
+Station Cleaning,ESSEX STREET (JAM),Essex Street,2015-03-13,BMT,J,Jam,2015,03,Mar,11,Fri,"J1,2,4",3
+Station Cleaning,FULTON STREET (JAM),Fulton Street,2015-03-13,BMT,J,Jam,2015,03,Mar,11,Fri,"R1,2",2
+Station Cleaning,14 STREET/UNION SQ  (BWY),14 Street/Union Sq,2015-03-15,BMT,A,Bwy,2015,03,Mar,12,Sun,A3,1
+Station Cleaning,34 STREET/HERALD SQ (BWY),34 Street/Herald Sq,2015-03-15,BMT,A,Bwy,2015,03,Mar,12,Sun,"A1,3",2
+Station Cleaning,42 STREET/TIMES SQUARE (BWY),42 Street/Times Square,2015-03-15,BMT,A,Bwy,2015,03,Mar,12,Sun,"A1,2",2
+Station Cleaning,49 STREET (BWY),49 Street,2015-03-15,BMT,A,Bwy,2015,03,Mar,12,Sun,2,0
+Station Cleaning,5 AVENUE (AST),5 Av - 59 St,2015-03-15,BMT,G,Ast,2015,03,Mar,12,Sun,"G1,G2",2
+Station Cleaning,57 STREET (BWY),57 St / 6th Ave,2015-03-15,BMT,A,Bwy,2015,03,Mar,12,Sun,"A1,4",2
+Station Cleaning,CANAL STREET (BWY) U.L.,Canal St at Brdwy (Upper),2015-03-15,BMT,A,Bwy,2015,03,Mar,12,Sun,"B1,2",2
+Station Cleaning,CITY HALL (BWY),City Hall,2015-03-15,BMT,B,Bwy,2015,03,Mar,12,Sun,"B1,2",2
+Station Cleaning,CORTLANDT STREET (BWY),Cortlandt Street,2015-03-15,BMT,A,Bwy,2015,03,Mar,12,Sun,B2,1
+Station Cleaning,PRINCE STREET (BWY),Prince Street,2015-03-15,BMT,A,Bwy,2015,03,Mar,12,Sun,A2,1
+Station Cleaning,RECTOR STREET (BWY),Rector Street,2015-03-15,BMT,B,Bwy,2015,03,Mar,12,Sun,B2,1
+Station Cleaning,WHITEHALL STREET (BWY),Whitehall Street,2015-03-15,BMT,B,Bwy,2015,03,Mar,12,Sun,B3/4,1
+Station Cleaning,14 STREET/UNION SQ  (BWY),14 Street/Union Sq,2015-03-16,BMT,A,Bwy,2015,03,Mar,12,Mon,"A3,4",2
+Station Cleaning,34 STREET (PENN STATION) (8AVE),34 Street,2015-03-16,IND,A,8Ave,2015,03,Mar,12,Mon,"A3,4",2
+Station Cleaning,42 STREET/TIMES SQUARE (7BWY),42 Street/Times Square,2015-03-16,IRT,MM,7Bwy,2015,03,Mar,12,Mon,"A3,4",2
+Station Cleaning,57 STREET (BWY),57 St / 6th Ave,2015-03-16,BMT,A,Bwy,2015,03,Mar,12,Mon,"A3,4",2
+Station Cleaning,CANAL STREET (H TRACKS) (BWY) L.L.,Canal St at Brdwy (Lower),2015-03-16,BMT,H,Bwy,2015,03,Mar,12,Mon,"H1,2",2
+Station Cleaning,63 DRIVE (REGO PARK) (QNS),63 Drive,2015-03-17,IND,D,Qns,2015,03,Mar,12,Tue,"D1,2",2
+Station Cleaning,65 STREET (QNS),65 Street,2015-03-17,IND,D,Qns,2015,03,Mar,12,Tue,D2,1
+Station Cleaning,67 AVENUE (QNS),67 Avenue,2015-03-17,IND,D,Qns,2015,03,Mar,12,Tue,D1,1
+Station Cleaning,71 CONTINENTAL AVE (FOREST HILLS) (QNS),71 Continental Ave,2015-03-17,IND,D,Qns,2015,03,Mar,12,Tue,"D3,4",2
+Station Cleaning,ELMHURST AVENUE (QNS),Elmhurst Avenue,2015-03-17,IND,D,Qns,2015,03,Mar,12,Tue,"D1,2",2
+Station Cleaning,GRAND AVENUE/NEWTOWN (QNS),Grand Avenue/Newtown,2015-03-17,IND,D,Qns,2015,03,Mar,12,Tue,"D1,2",2
+Station Cleaning,JACKSON HEIGHTS-ROOSEVELT AVE (QNS),Jackson Heights-Roosevelt Ave,2015-03-17,IND,D,Qns,2015,03,Mar,12,Tue,"D1,2",2
+Station Cleaning,NORTHERN BLVD. (QNS),Northern Blvd.,2015-03-17,IND,D,Qns,2015,03,Mar,12,Tue,D2,1
+Station Cleaning,WOODHAVEN BLVD. (QUEENS MALL) (QNS),Woodhaven Blvd.,2015-03-17,IND,D,Qns,2015,03,Mar,12,Tue,"D1,2",2
+Station Cleaning,BOWERY STREET (JAM),Bowery Street,2015-03-19,BMT,J,Jam,2015,03,Mar,12,Thu,"J1,2",2
+Station Cleaning,BROAD STREET (JAM),Broad Street,2015-03-19,BMT,J,Jam,2015,03,Mar,12,Thu,"R1,2",2
+Station Cleaning,CANAL STREET (JAM),Canal St at Center St.,2015-03-19,BMT,J,Jam,2015,03,Mar,12,Thu,"J1,2",2
+Station Cleaning,CHAMBERS STREET (JAM),Chambers St at Centre St.,2015-03-19,BMT,J,Jam,2015,03,Mar,12,Thu,"J1,2",2
+Station Cleaning,ESSEX STREET (JAM),Essex Street,2015-03-19,BMT,J,Jam,2015,03,Mar,12,Thu,"J1,4",2
+Station Cleaning,FULTON STREET (JAM),Fulton Street,2015-03-19,BMT,J,Jam,2015,03,Mar,12,Thu,"R1,2",2
+Station Cleaning,14 STREET/UNION SQ  (BWY),14 Street/Union Sq,2015-03-20,BMT,A,Bwy,2015,03,Mar,12,Fri,A1,1
+Station Cleaning,34 STREET/HERALD SQ (BWY),34 Street/Herald Sq,2015-03-20,BMT,A,Bwy,2015,03,Mar,12,Fri,A1,1
+Station Cleaning,42 STREET/TIMES SQUARE (BWY),42 Street/Times Square,2015-03-20,BMT,A,Bwy,2015,03,Mar,12,Fri,"A3,4",2
+Station Cleaning,57 STREET (BWY),57 St / 6th Ave,2015-03-20,BMT,A,Bwy,2015,03,Mar,12,Fri,"A3,4",2
+Station Cleaning,7 AVENUE (BRT),7 Avenue,2015-03-20,BMT,A,Brt,2015,03,Mar,12,Fri,"A3,4",2
+Station Cleaning,ATLANTIC AVENUE (BRT),Atlantic Avenue,2015-03-20,BMT,A,Brt,2015,03,Mar,12,Fri,"A3,4",2
+Station Cleaning,CANAL STREET (BWY) U.L.,Canal St at Brdwy (Upper),2015-03-20,BMT,A,Bwy,2015,03,Mar,12,Fri,"H1,2",2
+Station Cleaning,DEKALB AVENUE (4AVE),Dekalb Avenue,2015-03-20,BMT,F,4Ave,2015,03,Mar,12,Fri,"A3,4",2
+Station Cleaning,PRINCE STREET (BWY),Prince Street,2015-03-20,BMT,A,Bwy,2015,03,Mar,12,Fri,"A1,2",2
+Station Cleaning,15 STREET (PROSPECT PARK) (6AVE),15 Street,2015-03-21,IND,B,6Ave,2015,03,Mar,12,Sat,"B1,2",2
+Station Cleaning,7 AVENUE (BKLYN) (6AVE),7 Avenue,2015-03-21,IND,B,6Ave,2015,03,Mar,12,Sat,"B1,2,4",3
+Station Cleaning,BERGEN STREET (6AVE),Bergen Street,2015-03-21,IND,B,6Ave,2015,03,Mar,12,Sat,"B1,2",2
+Station Cleaning,CARROLL STREET (6AVE),Carroll Street,2015-03-21,IND,B,6Ave,2015,03,Mar,12,Sat,"B1,2",2
+Station Cleaning,CHURCH AVENUE (6AVE),Church Avenue,2015-03-21,IND,B,6Ave,2015,03,Mar,12,Sat,"B1,2,4",3
+Station Cleaning,FORT HAMILTON PARKWAY (6AVE),Fort Hamilton Parkway,2015-03-21,IND,B,6Ave,2015,03,Mar,12,Sat,"B1,2",2
+Station Cleaning,JAY STREET (FUL),Jay Street,2015-03-21,IND,B,Ful,2015,03,Mar,12,Sat,"B1,2",2
+Station Cleaning,SMITH 9 STREETS (6AVE),Smith 9 Streets,2015-03-21,IND,B,6Ave,2015,03,Mar,12,Sat,B1,1
+Station Cleaning,14 STREET/UNION SQ  (BWY),14 Street/Union Sq,2015-03-22,BMT,A,Bwy,2015,03,Mar,13,Sun,A4,1
+Station Cleaning,23 STREET (BWY),23 Street,2015-03-22,BMT,A,Bwy,2015,03,Mar,13,Sun,A1,1
+Station Cleaning,28 STREET (BWY),28 Street,2015-03-22,BMT,A,Bwy,2015,03,Mar,13,Sun,A1,1
+Station Cleaning,34 STREET/HERALD SQ (BWY),34 Street/Herald Sq,2015-03-22,BMT,A,Bwy,2015,03,Mar,13,Sun,"A1,4",2
+Station Cleaning,42 STREET/TIMES SQUARE (BWY),42 Street/Times Square,2015-03-22,BMT,A,Bwy,2015,03,Mar,13,Sun,"A1,2",2
+Station Cleaning,49 STREET (BWY),49 Street,2015-03-22,BMT,A,Bwy,2015,03,Mar,13,Sun,A2,1
+Station Cleaning,57 STREET (BWY),57 St / 6th Ave,2015-03-22,BMT,A,Bwy,2015,03,Mar,13,Sun,A4,1
+Station Cleaning,CANAL STREET (BWY) U.L.,Canal St at Brdwy (Upper),2015-03-22,BMT,A,Bwy,2015,03,Mar,13,Sun,B2,1
+Station Cleaning,CITY HALL (BWY),City Hall,2015-03-22,BMT,B,Bwy,2015,03,Mar,13,Sun,B2,1
+Station Cleaning,CORTLANDT STREET (BWY),Cortlandt Street,2015-03-22,BMT,A,Bwy,2015,03,Mar,13,Sun,B2,1
+Station Cleaning,RECTOR STREET (BWY),Rector Street,2015-03-22,BMT,B,Bwy,2015,03,Mar,13,Sun,B2,1
+Station Cleaning,WHITEHALL STREET (BWY),Whitehall Street,2015-03-22,BMT,B,Bwy,2015,03,Mar,13,Sun,"A1,B3",2
+Station Cleaning,BOWERY STREET (JAM),Bowery Street,2015-03-23,BMT,J,Jam,2015,03,Mar,13,Mon,"J2,4",2
+Station Cleaning,BROAD STREET (JAM),Broad Street,2015-03-23,BMT,J,Jam,2015,03,Mar,13,Mon,"R1,2",2
+Station Cleaning,CANAL STREET (JAM),Canal St at Center St.,2015-03-23,BMT,J,Jam,2015,03,Mar,13,Mon,"J2,4",2
+Station Cleaning,CHAMBERS STREET (JAM),Chambers St at Centre St.,2015-03-23,BMT,J,Jam,2015,03,Mar,13,Mon,"J1,2",2
+Station Cleaning,ESSEX STREET (JAM),Essex Street,2015-03-23,BMT,J,Jam,2015,03,Mar,13,Mon,"J1,4",2
+Station Cleaning,FULTON STREET (JAM),Fulton Street,2015-03-23,BMT,J,Jam,2015,03,Mar,13,Mon,"R1,2",2
+Station Cleaning,14 STREET/UNION SQ  (BWY),14 Street/Union Sq,2015-03-26,BMT,A,Bwy,2015,03,Mar,13,Thu,"A3,4",2
+Station Cleaning,34 STREET/HERALD SQ (BWY),34 Street/Herald Sq,2015-03-26,BMT,A,Bwy,2015,03,Mar,13,Thu,"A3,4",2
+Station Cleaning,42 STREET/TIMES SQUARE (BWY),42 Street/Times Square,2015-03-26,BMT,A,Bwy,2015,03,Mar,13,Thu,"A3,4",2
+Station Cleaning,57 STREET (BWY),57 St / 6th Ave,2015-03-26,BMT,A,Bwy,2015,03,Mar,13,Thu,"A3,4",2
+Station Cleaning,7 AVENUE (BRT),7 Avenue,2015-03-26,BMT,A,Brt,2015,03,Mar,13,Thu,A3,1
+Station Cleaning,ATLANTIC AVENUE (BRT),Atlantic Avenue,2015-03-26,BMT,A,Brt,2015,03,Mar,13,Thu,A3,1
+Station Cleaning,CANAL STREET (H TRACKS) (BWY) L.L.,Canal St at Brdwy (Lower),2015-03-26,BMT,H,Bwy,2015,03,Mar,13,Thu,"H1,2",2
+Station Cleaning,DEKALB AVENUE (4AVE),Dekalb Avenue,2015-03-26,BMT,F,4Ave,2015,03,Mar,13,Thu,A3,1
+Station Cleaning,15 STREET (PROSPECT PARK) (6AVE),15 Street,2015-03-27,IND,B,6Ave,2015,03,Mar,13,Fri,B2,1
+Station Cleaning,4 AVENUE (6AVE),4 Avenue,2015-03-27,IND,B,6Ave,2015,03,Mar,13,Fri,B1,1
+Station Cleaning,BERGEN STREET (6AVE),Bergen Street,2015-03-27,IND,B,6Ave,2015,03,Mar,13,Fri,"B1,2",2
+Station Cleaning,CARROLL STREET (6AVE),Carroll Street,2015-03-27,IND,B,6Ave,2015,03,Mar,13,Fri,"B1,2",2
+Station Cleaning,CHURCH AVENUE (6AVE),Church Avenue,2015-03-27,IND,B,6Ave,2015,03,Mar,13,Fri,"B2,3,4",3
+Station Cleaning,FORT HAMILTON PARKWAY (6AVE),Fort Hamilton Parkway,2015-03-27,IND,B,6Ave,2015,03,Mar,13,Fri,B2,1
+Station Cleaning,JAY STREET (FUL),Jay Street,2015-03-27,IND,B,Ful,2015,03,Mar,13,Fri,"B1,2",2
+Station Cleaning,145 STREET (CONC),145 Street,2015-03-28,IND,C,Conc,2015,03,Mar,13,Sat,"C1,C3/4",2
+Station Cleaning,155 STREET (CONC),155 Street,2015-03-28,IND,C,Conc,2015,03,Mar,13,Sat,C1,1
+Station Cleaning,161 STREET (CONC),161 Street,2015-03-28,IND,C,Conc,2015,03,Mar,13,Sat,C1,1
+Station Cleaning,167 STREET (CONC),167 Street,2015-03-28,IND,C,Conc,2015,03,Mar,13,Sat,C1,1
+Station Cleaning,174 STREET (CONC),174-175 St,2015-03-28,IND,C,Conc,2015,03,Mar,13,Sat,C1,1
+Station Cleaning,182 STREET (CONC),182 Street,2015-03-28,IND,C,Conc,2015,03,Mar,13,Sat,C1,1
+Station Cleaning,205 STREET (NORWOOD)(CONC),205 Street,2015-03-28,IND,C,Conc,2015,03,Mar,13,Sat,C2,1
+Station Cleaning,BEDFORD PARK BLVD. (CONC),Bedford Park Blvd.,2015-03-28,IND,C,Conc,2015,03,Mar,13,Sat,"C2,6",2
+Station Cleaning,FORDHAM ROAD (CONC),Fordham Road,2015-03-28,IND,C,Conc,2015,03,Mar,13,Sat,"C1,C3/4",2
+Station Cleaning,KINGSBRIDGE ROAD (CONC),Kingsbridge Road,2015-03-28,IND,C,Conc,2015,03,Mar,13,Sat,"C1,C3/4",2
+Station Cleaning,TREMONT AVENUE (CONC),Tremont Avenue,2015-03-28,IND,C,Conc,2015,03,Mar,13,Sat,"C1,C3/4",2
