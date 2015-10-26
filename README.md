@@ -25,4 +25,4 @@ The data in this repository was received in September 2015.
 * `cleanings-vacuum.csv` lists cleanings of the trackbed by a vacuum (VakTrak) train.
 * These cleanings do not include cleanings of station entrances or platforms.
 * The `Track` column lists specific tracks that were cleaned.  The `Tracks Done` column lists the number of tracks clean.  For example, if tracks V4 and V3 were cleaned, the `Track` column would list `V3,V4` and the `Tracks Done` column would list `2`.
-* `cleanings-manual.csv` includes data on quantity of debris removed, and exact track footage covered.
+* `cleanings-manual.csv` includes data on the quantity of debris removed and exact track footage covered.
